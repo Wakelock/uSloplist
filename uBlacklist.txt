@@ -32,7 +32,6 @@
 *://*.dogfoodguides.com/*
 *://*.fruitandgarden.com/*
 *://*.mydogface.com/*
-*://*.storage.googleapis.com/*
 *://*.dreamstime.com/*
 *://*.myitchydog.co.uk/*
 *://*.dogcarelife.com/*
