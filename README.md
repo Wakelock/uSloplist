@@ -5,8 +5,8 @@ Anti-AI ruleset for uBlacklist. Tired of uncanny "photos", stolen muddled "art",
 
 1. Which websites does it block?
 > Sites which:
-> - host a large amount of *AI-generated images*, especially those from companies who invest in AI (e.g., Adobe).
-> - Source-less articles from an unknown (probably AI) writer, which contain obviously AI-generated media.
+> - Host a large amount of *AI-generated images*, especially those from companies who invest in AI (e.g., Adobe).
+> - Contain source-less articles from an unknown (probably AI) writer, which contain obviously AI-generated media.
 
 2. Does it block political content?
 > *Mostly not*. Political sites are less likely to be blocked, in order to prevent censorship and bias. The only such websites intended to be blocked must be obscure, baseless and completely AI-generated, whose images show up on search results.
