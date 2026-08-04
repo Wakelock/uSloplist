@@ -1,5 +1,5 @@
 # uSloplist
-Anti-AI ruleset for uBlacklist. Tired of uncanny "photos", stolen muddled "art", or unnatural AI-generated "music"? uSloplist aims to filter out all kinds of slop, to bring back the good 'ol worldwide web.
+Anti-AI ruleset for uBlacklist and uBlock Origin. Tired of uncanny "photos", stolen muddled "art", or unnatural AI-generated "music"? uSloplist aims to filter out all kinds of slop, to bring back the good 'ol worldwide web.
  
 ## Q&A
 
