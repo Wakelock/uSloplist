@@ -13,3 +13,7 @@ Anti-AI ruleset for uBlacklist. Tired of uncanny "photos", stolen muddled "art",
 
 3. Which are most likely false positives?
 > We try our best to avoid false positives. The most likely false positives would be from art, which we deem soulless and disproportionate, e.g., [Corporate Memphis](https://en.wikipedia.org/wiki/Corporate_Memphis). Or from music, which we deem unnatural due to overuse of audio trimming or [AutoTune](https://en.wikipedia.org/wiki/Autotune).
+
+## See also
+- [DuckDuckGo No AI](https://noai.duckduckgo.com/)
+- [HarmonyDagger](https://github.com/jaschadub/harmonydagger)
