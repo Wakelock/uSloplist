@@ -7,7 +7,7 @@ Anti-AI ruleset for uBlacklist. Tired of uncanny "photos", stolen muddled "art",
 > Sites which:
 > - Host a large amount of *AI-generated images*, especially those from companies who invest in AI (e.g., Adobe).
 > - Provide incoherent or source-less articles from an unknown (probably AI) writer, which contain obviously AI-generated media.
-
+> - Stream stolen music altered by AI beyond comprehension.
 2. Does it block political content?
 > *Mostly not*. Political sites are less likely to be blocked, in order to prevent censorship and bias. The only such websites intended to be blocked must be obscure, baseless and almost if not completely AI-generated, whose images show up on search results.
 
