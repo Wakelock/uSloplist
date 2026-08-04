@@ -35,3 +35,16 @@
 *://*.dreamstime.com/*
 *://*.myitchydog.co.uk/*
 *://*.dogcarelife.com/*
+*://*.americanpaws.club/*
+*://*.lolaapp.com/*
+*://*.felinefascination.com/*
+*://*.pixabay.com/*
+*://*.nisshoku.biz/*
+*://*.catbeep.com/*
+*://*.mybritishshorthair.com/*
+*://*.vecteezy.com/*
+*://*.dreamologyinsights.com/*
+*://*.selfawareness.blog/*
+*://*.kitty.zone/*
+*://*.dream-dictionary.com/*
+*://*.sinaunangpanahon.com/*
