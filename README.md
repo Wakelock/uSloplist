@@ -1,5 +1,5 @@
 # uSloplist
-Anti-AI ruleset for uBlacklist. Tired of uncanny "photos", stolen muddled "art", or unnatural AI-generated "music"? uSloplist aims to catch all kinds of slop, bringing back the good 'ol internet.
+Anti-AI ruleset for uBlacklist. Tired of uncanny "photos", stolen muddled "art", or unnatural AI-generated "music"? uSloplist aims to filter out all kinds of slop, to bring back the good 'ol internet.
  
 ## Q&A
 
@@ -9,4 +9,4 @@ Anti-AI ruleset for uBlacklist. Tired of uncanny "photos", stolen muddled "art",
 > - Provide incoherent or source-less articles from an unknown (probably AI) writer, which contain obviously AI-generated media.
 
 2. Does it block political content?
-> *Mostly not*. Political sites are less likely to be blocked, in order to prevent censorship and bias. The only such websites intended to be blocked must be obscure, baseless and near if not completely AI-generated, whose images show up on search results.
+> *Mostly not*. Political sites are less likely to be blocked, in order to prevent censorship and bias. The only such websites intended to be blocked must be obscure, baseless and almost if not completely AI-generated, whose images show up on search results.
