@@ -1,0 +1,1 @@
+You are welcome to fork the repository. Starring the it might motivate us to keep working on it. If you wish to submit a pull request, you must provide sources, and ensure that none of the commits' nor the fork's names and descriptions are written by AI.
