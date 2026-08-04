@@ -1,0 +1,16 @@
+*://*.booboone.com/*
+*://*.facemweb.com/*
+*://*.icowebsolutions.com/*
+*://*.heyou.io/*
+*://*.lejournaldumarketing.com/*
+*://*.pro-marin.de/*
+*://*.bible.art/*
+*://*.biblepics.co/*
+*://*.muddledramblings.com/*
+*://*.nightcafe.studio/*
+*://*.1ai.net/*
+*://*.coretocloud.co.uk/*
+*://*.paloaltonetworks.com/*
+*://*.aimojo.io/*
+*://*.story.com/*
+*://*.suno.com/*
