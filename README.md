@@ -5,13 +5,13 @@ Anti-AI ruleset for uBlacklist and uBlock Origin. Tired of uncanny "photos", sto
 ### uBlacklist
 1. Open addon options
 2. Scroll down to "Subscription", and then click "Add a subscription".
-3. Paste in
+3. Paste in:
 
 ``https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist.txt``
 ### uBlock Origin
 1. Open addon options
-2. Click "Filter lists", and select "Import..."
-3. Paste in
+2. Click "Filter lists", and then select "Import..."
+3. Paste in:
 
 ``https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist.txt``
 
