@@ -72,7 +72,6 @@
 *://*.shedevrum.ai/*
 *://*.learningmole.com/*
 *://*.fotor.com/*
-*://*.live3d.io/*
 *://*.wallhere.com/*
 *://*.sheepanddragons.com/*
 *://*.utpaqp.edu.pe/*
