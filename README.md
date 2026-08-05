@@ -26,7 +26,7 @@ Anti-AI ruleset for uBlacklist and uBlock Origin. Tired of uncanny "photos", sto
 > *Mostly not*. Political sites are less likely to be blocked, in order to prevent censorship and bias. The only such websites intended to be blocked must be obscure, baseless and almost if not completely AI-generated, whose images show up on search results.
 
 3. Which are most likely false positives?
-> We try our best to avoid false positives. The most likely false positives would be from art, which we deem soulless and disproportionate, e.g., [Corporate Memphis](https://en.wikipedia.org/wiki/Corporate_Memphis). Or from music, which we deem unnatural due to overuse of audio trimming or [AutoTune](https://en.wikipedia.org/wiki/Autotune).
+> We try our best to avoid false positives. The most likely false positives would be from art, which we deem soulless, disproportionate, or excessively smooth and colorful. e.g., [Corporate Memphis](https://en.wikipedia.org/wiki/Corporate_Memphis). Or from music, which we deem unnatural due to overuse of audio trimming or [AutoTune](https://en.wikipedia.org/wiki/Autotune).
 
 ## See also
 - [DuckDuckGo No AI](https://noai.duckduckgo.com/)
