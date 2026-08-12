@@ -286,7 +286,6 @@
 *://*.techpp.com/*
 *://*.h-digitalbusiness.com/*
 *://*.neilturner.me.uk/*
-*://*.mit.edu/*
 *://*.softonic.com.tr/*
 *://*.phill.ai/*
 *://*.sugargamers.com/*
