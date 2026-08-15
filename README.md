@@ -16,7 +16,7 @@ Copy ``https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBla
 
 1. Which websites does it block?
 > Sites which:
-> - Host a large amount of *AI-generated images*, especially those from companies who invest in AI (e.g., Adobe, Facebook, etc). Certain popular pro-AI websites (like Reddit, Scratch, YouTube, etc.) are whitelisted because they are provide a good percentage of genuine content, though it apparently decreases by day.
+> - Host a large amount of *AI-generated images*, especially those from companies who invest in AI (e.g., Adobe, Facebook, etc). Certain popular pro-AI websites (like Reddit, Scratch, YouTube, etc.) are whitelisted because they provide good percentages of genuine content, though they apparently decrease by day.
 > - Provide incoherent or source-less articles from an unknown (probably AI) writer, which contain obviously AI-generated media.
 > - Stream stolen music altered by AI beyond comprehension.
 2. Does it block political content?
