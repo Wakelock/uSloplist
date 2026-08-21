@@ -18,7 +18,7 @@ Copy
 
 1. Which websites does it block?
 > Sites which:
-> - Host a large amount of AI-generated content, especially those from companies who heavily invest in AI (e.g., Adobe, MSN, TikTok, etc). Certain popular pro-AI websites (like Amazon, Facebook, Reddit, Scratch, YouTube, etc.) are whitelisted because they provide good percentages of valuable content to AI slop, though they apparently decrease by day. This ruleset is probably more "nuclear" than most others.
+> - Host a large amount of AI-generated content, especially those from companies who heavily invest in AI (e.g., Adobe, MSN, TikTok, etc). Certain popular pro-AI websites (like Amazon, Facebook, Reddit, Scratch, SoundCloud, YouTube, etc.) are whitelisted because they provide good percentages of valuable content to AI slop, though they apparently decrease by day. This ruleset is probably more "nuclear" than most others.
 > - Provide incoherent or source-less articles from an unknown (probably AI) writer, which contain obviously AI-generated media.
 > - Stream stolen music altered by AI beyond comprehension.
 2. Does it block political content?
