@@ -3,8 +3,9 @@ Anti-AI ruleset for uBlacklist and uBlock Origin. Tired of uncanny "photos", sto
 
 ## Setup
 Copy
-
-``https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist.txt``
+```
+https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist.txt
+```
 
 ### uBlacklist
 1. Open addon options
