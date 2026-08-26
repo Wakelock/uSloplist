@@ -1,3 +1,6 @@
+# Whitelist
+@*://*.youtube.com/*
+
 # Wildcards
 *://*.ai/*
 
@@ -792,7 +795,6 @@
 *://*.pixele.studio/*
 *://*.v7labs.com/*
 *://*.awesomeindie.com/*
-*://*.youtube.com/*
 *://*.utorrent.com/*
 *://*.timebusinessnews.com/*
 *://*.freepsdmock-up.com/*
@@ -807,3 +809,5 @@
 *://*.techafricana.com/*
 *://*.sdlccorp.com/*
 *://*.aitoolsnew.com/*
+*://*.best100plus.com/*
+*://*.sangayaglobal.com/*
