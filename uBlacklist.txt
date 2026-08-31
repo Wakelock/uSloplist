@@ -1,11 +1,18 @@
 # Whitelist
-@*://*.youtube.com/*
+@*://*.facebook.com/*
+@*://*.x.com/*
 
 # Wildcards
 *://*.ai/*
 
 # Chatbots
 *://gemini.google.com/*
+
+# Videos
+*://*.youtube.com/watch?v=3uJhslBBAL8
+*://*.youtube.com/watch?v=Lp5x5WyALe0
+*://*.youtube.com/watch?v=W4eUw8QK-h0
+*://*.youtube.com/watch?v=sP7YIREndbg
 
 # Images
 *://*.booboone.com/*
@@ -811,3 +818,30 @@
 *://*.aitoolsnew.com/*
 *://*.best100plus.com/*
 *://*.sangayaglobal.com/*
+*://*.soompi.com/*
+*://*.yourpetland.com/*
+*://*.ndtvprofit.com/*
+*://*.404media.co/*
+*://*.bhaskarenglish.in/*
+*://*.protectotank.com.mx/*
+*://*.youtube.com/watch?v=R3hmAO_KWrc
+*://*.independent.co.uk/*
+*://*.emojis.com/*
+*://*.americanbazaaronline.com/*
+*://*.fantomagazines.com/*
+*://*.mothkill.co.uk/*
+*://*.orlandosentinel.com/*
+*://*.crypto-economy.com/*
+*://*.cointribune.com/*
+*://*.coindada.com/*
+*://*.altcoinbuzz.io/*
+*://*.tokocrypto.com/*
+*://*.cryptotimes.io/*
+*://*.coingabbar.com/*
+*://*.btcc.com/*
+*://*.holder.io/*
+*://*.cryptodaily.co.uk/*
+*://*.cryptorank.io/*
+*://*.cryptonews.com/*
+*://*.tremplin.io/*
+*://*.coinacademy.fr/*
