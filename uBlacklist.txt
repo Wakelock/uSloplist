@@ -13,6 +13,7 @@
 *://*.youtube.com/watch?v=Lp5x5WyALe0
 *://*.youtube.com/watch?v=W4eUw8QK-h0
 *://*.youtube.com/watch?v=sP7YIREndbg
+*://*.youtube.com/watch?v=L_HC-D6HZ9M
 
 # Images
 *://*.booboone.com/*
@@ -845,3 +846,23 @@
 *://*.cryptonews.com/*
 *://*.tremplin.io/*
 *://*.coinacademy.fr/*
+*://*.vdict.com/*
+*://*.flyaviary.com/*
+*://*.birdvenue.com/*
+*://*.hundeo.com/*
+*://*.ratgeber-haus-garten.com/*
+*://*.casting-babylon.de/*
+*://*.punsdelight.com/*
+*://*.captioniy.com/*
+*://*.punoramaa.com/*
+*://*.captionikk.com/*
+*://*.punsterly.com/*
+*://*.horizonspheres.com/*
+*://*.meanary.com/*
+*://*.contentideators.com/*
+*://*.the-decoder.com/*
+*://*.acibademinternational.com/*
+*://*.watermanshair.com/*
+*://*.whiteclouds.com/*
+*://*.diariodefinancas.com/*
+*://*.betterwaifu.com/*
