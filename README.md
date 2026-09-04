@@ -28,5 +28,6 @@ https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist.
 > We try our best to avoid false positives. The most likely false positives would be from photos, which overuse focus blur, oilify, sharpen or other filters, or art, which we deem soulless, disproportionate, or excessively smooth and colorful. e.g., [Corporate Memphis](https://en.wikipedia.org/wiki/Corporate_Memphis). Or from music, which we deem unnatural due to overuse of audio trimming or [AutoTune](https://en.wikipedia.org/wiki/Autotune).
 
 ## See also
+- [AIMania](https://github.com/Vxrpenter/AIMania)
 - [DuckDuckGo No AI](https://noai.duckduckgo.com/)
 - [HarmonyDagger](https://github.com/jaschadub/harmonydagger)
