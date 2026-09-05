@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist.
 > *Mostly not*. Political sites are less likely to be blocked, in order to prevent censorship and bias. The only such websites intended to be blocked must be obscure, baseless and almost if not completely AI-generated, whose images show up on search results.
 3. Which are most likely false positives?
 > We try our best to avoid false positives. The most likely false positives would be from photos, which overuse focus blur, oilify, sharpen or other filters, or art, which we deem soulless, disproportionate, or excessively smooth and colorful. e.g., [Corporate Memphis](https://en.wikipedia.org/wiki/Corporate_Memphis). Or from music, which we deem unnatural due to overuse of audio trimming or [AutoTune](https://en.wikipedia.org/wiki/Autotune).
-4. Which characteristics of a website could contribute blocking?
+4. Which characteristics of a website could contribute to blocking?
 > Although the characteristics are not enough when standalone, they could help us decide whether to block a website if we were doubtful of its usefulness to slop. Included are characteristics such as: required account creation; vibe-coded UI; mandatory JavaScript (which shouldn't be); providing slop without classifying it as such; unknown authorship; etc.
 
 ## See also
