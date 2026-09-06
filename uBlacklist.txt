@@ -863,6 +863,12 @@
 *://*.horizonspheres.com/*
 *://*.meanary.com/*
 *://*.contentideators.com/*
+*://*.the-decoder.com/*
+*://*.acibademinternational.com/*
+*://*.watermanshair.com/*
+*://*.whiteclouds.com/*
+*://*.diariodefinancas.com/*
+*://*.betterwaifu.com/*
 *://*.popfun.com/*
 *://*.amazinganimalphotos.com/*
 *://*.euram2008.org/*
