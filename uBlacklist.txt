@@ -17,6 +17,7 @@
 *://*.youtube.com/watch?v=V_L4CDFtqKs
 *://*.youtube.com/watch?v=tU0Q3FC4WAk
 *://*.youtube.com/watch?v=0pmVYbwvKIE
+*://*.youtube.com/watch?v=-2q1dBoDRTg
 
 # Images
 *://*.booboone.com/*
@@ -893,7 +894,6 @@
 *://*.bighaat.com/*
 *://*.ainvest.com/*
 *://*.kisanshop.in/*
-
 *://*.neurolaunch.com/*
 *://*.hellodoctor.com.ph/*
 *://*.klesiass.com/*
@@ -904,7 +904,6 @@
 *://*.securityboulevard.com/*
 *://*.aigf.club/*
 *://*.podchaser.com/*
-*://*.youtube.com/watch?v=-2q1dBoDRTg
 *://*.tezgyan.com/*
 *://*.openintl.com/*
 *://*.zebra-comics.com/*
@@ -913,8 +912,6 @@
 *://*.hunarnama.org/*
 *://*.infigonfutures.com/*
 *://*.adamasuniversity-newgen.com/*
-*://*.reddit.com/*
-*://*.youtube.com/*
 *://*.news18.com/*
 *://*.mobisystems.com/*
 *://*.onlinefinancetips.com/*
