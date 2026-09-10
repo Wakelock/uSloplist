@@ -33,3 +33,4 @@ https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist.
 - [AIMania](https://github.com/Vxrpenter/AIMania)
 - [DuckDuckGo No AI](https://noai.duckduckgo.com/)
 - [HarmonyDagger](https://github.com/jaschadub/harmonydagger)
+- [Miasma](https://github.com/austin-weeks/miasma)
