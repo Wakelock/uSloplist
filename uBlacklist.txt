@@ -1,4 +1,6 @@
 # Whitelist
+@*://*.androidauthority.com/*
+@*://*.bbc.co.uk/*
 @*://*.facebook.com/*
 @*://*.x.com/*
 
@@ -18,6 +20,8 @@
 *://*.youtube.com/watch?v=tU0Q3FC4WAk
 *://*.youtube.com/watch?v=0pmVYbwvKIE
 *://*.youtube.com/watch?v=-2q1dBoDRTg
+*://*.youtube.com/watch?v=4Eg_UgpAw_M
+*://*.youtube.com/watch?v=R3hmAO_KWrc
 
 # Images
 *://*.booboone.com/*
@@ -730,7 +734,6 @@
 *://*.hitpaw.com/*
 *://*.arsmagnastudio.com/*
 *://*.momjunction.com/*
-*://*.fandom.com/*
 *://*.filmfare.com/*
 *://*.ndtv.in/*
 *://*.hindu-blog.com/*
@@ -828,7 +831,6 @@
 *://*.404media.co/*
 *://*.bhaskarenglish.in/*
 *://*.protectotank.com.mx/*
-*://*.youtube.com/watch?v=R3hmAO_KWrc
 *://*.independent.co.uk/*
 *://*.emojis.com/*
 *://*.americanbazaaronline.com/*
@@ -938,3 +940,47 @@
 *://*.aitop8.com/*
 *://*.optimizeup.com/*
 *://*.royalsociety.org/*
+*://*.katzenkram.net/*
+*://*.kotikdoma.com/*
+*://*.24rhein.de/*
+*://*.robophilosophy.com/*
+*://*.mobilmag.eu/*
+*://*.kpmg.com/*
+*://*.techspot.com/*
+*://*.itp.net/*
+*://*.southfloridaconservative.com/*
+*://*.aakashr11111001111.github.io/*
+*://*.catcomfortshop.com/*
+*://*.nationaltoday.com/*
+*://*.personalmentor.pro/*
+*://*.beezrathashem.org/*
+*://*.youtube.com/watch?v=nkmvUJ5Xaxc
+*://*.campbellmgold.co.uk/*
+*://*.bhtorah.org/*
+*://*.sentiasapanas.com/*
+*://*.thekidspoint.com/*
+*://*.ilumsg.com/*
+*://*.plugintutor.com/*
+*://*.mondaymandala.com/*
+*://*.homeschoolunleashed.com/*
+*://*.earlyyears.tv/*
+*://*.punzline.com/*
+*://*.theexercisers.com/*
+*://*.teenagersbd.com/*
+*://*.teacherspayteachers.com/*
+*://*.oflox.com/*
+*://*.udemy.com/*
+*://*.concettolabs.com/*
+*://*.revuze.it/*
+*://*.hurix.com/*
+*://*.sheswired.com/*
+*://*.socialmediaexaminer.com/*
+*://*.siam-legal.com/*
+*://*.rytbee.com/*
+*://*.deepfakemaker.io/*
+*://*.poptopic.com.au/*
+*://*.mediawhoop.com/*
+*://*.emp0.com/*
+*://*.leverageai.solutions/*
+*://*.viraltrends.in/*
+*://*.zurcs.com/*
