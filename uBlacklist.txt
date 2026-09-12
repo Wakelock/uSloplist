@@ -1,6 +1,8 @@
 # Whitelist
 @*://*.androidauthority.com/*
+@*://*.bandcamp.com/*
 @*://*.bbc.co.uk/*
+@*://*.etsy.com/*
 @*://*.facebook.com/*
 @*://*.x.com/*
 
@@ -22,6 +24,7 @@
 *://*.youtube.com/watch?v=-2q1dBoDRTg
 *://*.youtube.com/watch?v=4Eg_UgpAw_M
 *://*.youtube.com/watch?v=R3hmAO_KWrc
+*://*.youtube.com/watch?v=nkmvUJ5Xaxc
 
 # Images
 *://*.booboone.com/*
@@ -159,7 +162,6 @@
 *://*.theaisurf.com/*
 *://*.seapik.com/*
 *://*.siliconinvestor.com/*
-*://*.etsy.com/*
 *://*.beautyfulaigirls.blogspot.com/*
 *://*.nationalgeographic.com/*
 *://*.prismnews.com/*
@@ -885,7 +887,6 @@
 *://*.smartlivingjournal.com/*
 *://*.peakdistrictkids.co.uk/*
 *://*.hiddenpeakpress.com/*
-*://*.bandcamp.com/*
 *://*.healthysquire.com/*
 *://*.visiniaga.com/*
 *://*.goyimtv.com/*
@@ -954,7 +955,6 @@
 *://*.nationaltoday.com/*
 *://*.personalmentor.pro/*
 *://*.beezrathashem.org/*
-*://*.youtube.com/watch?v=nkmvUJ5Xaxc
 *://*.campbellmgold.co.uk/*
 *://*.bhtorah.org/*
 *://*.sentiasapanas.com/*
