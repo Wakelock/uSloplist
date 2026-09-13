@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist.
 5. How to whitelist a site?
 > - Visit a search results page, click the uBlacklist logo at the top right corner.
 > - Mouseover at the blocked website (which should be highlighted), and then click the uBlacklist logo which just appeared.
-> - A menu should pop up, then click "Unblock". If you imported uSloplist, that would remove it from your list. If you subscribed to uSloplist, that would add the site with an additional "@" at its line's beginning to your own list.
+> - A menu should pop up, then click "Unblock". If you imported uSloplist (which is not recommended), that would remove the site from your list. If you subscribed to uSloplist, that would add the site with an additional "@" at its line's beginning to your own list.
 
 ## See also
 - [AIMania](https://github.com/Vxrpenter/AIMania)
