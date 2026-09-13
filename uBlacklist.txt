@@ -6,13 +6,13 @@
 @*://*.facebook.com/*
 @*://*.x.com/*
 
-# Wildcards
-*://*.ai/*
-
 # Chatbots
 *://gemini.google.com/*
 
-# Videos
+# Wildcards
+*://*.ai/*
+
+# YouTube
 *://*.youtube.com/watch?v=3uJhslBBAL8
 *://*.youtube.com/watch?v=Lp5x5WyALe0
 *://*.youtube.com/watch?v=W4eUw8QK-h0
@@ -1029,3 +1029,75 @@
 *://*.techfixai.com/*
 *://*.aireporteramerica.com/*
 *://*.evolutionaihub.com/*
+*://*.idealinspiration.blog/*
+*://*.flowhunt.io/*
+*://*.beedai.com/*
+*://*.thunderbit.com/*
+*://*.aispytech.com/*
+*://*.traffictail.com/*
+*://*.aslpreservationsolutions.com/*
+*://*.ripandscam.com/*
+*://*.khaleejtimes.com/*
+*://*.nickvarga.com/*
+*://*.wpfastestcache.com/*
+*://*.aofirs.org/*
+*://*.notificationx.com/*
+*://*.triadwebservice.com/*
+*://*.techxplore.com/*
+*://*.cxotoday.com/*
+*://*.globaltechcouncil.org/*
+*://*.ai-toolr.com/*
+*://*.businesssaga.in/*
+*://*.youtube.com/*
+*://*.techfinitive.com/*
+*://*.ilearnlot.com/*
+*://*.commonlegalquestions.com/*
+*://*.growthfolks.io/*
+*://*.husamjandal.com/*
+*://*.thedigitalnexus.xyz/*
+*://*.aigptjournal.com/*
+*://*.leapoutdigital.com/*
+*://*.shoutmeloud.com/*
+*://*.livepage.net/*
+*://*.tailwindapp.com/*
+*://*.knowyourmeme.com/editorials/collections/17-weird-examples-of-ai-generated-facebook-content-thats-taking-over-the-site
+*://*.datafeedwatch.com/*
+*://*.music3point0.com/*
+*://genesis0311.itch.io/*
+*://*.learnai24.com/*
+*://*.tvnewscheck.com/ai/article/youtubes-ai-slop-crisis-is-a-warning-and-an-opportunity-for-local-media/
+*://*.goodthingsguy.com/*
+*://*.guidantech.com/*
+*://*.ebaumsworld.com/*
+*://*.idwebhost.com/*
+*://*.monet.design/*
+*://*.mutt0-ds.github.io/*
+*://*.uts.edu.au/*
+*://*.makeuseof.ir/*
+*://*.pasionmovil.com/*
+*://*.ai-slop.today/*
+*://*.katiecouric.com/*
+*://*.eweek.com/*
+*://*.phemex.com/*
+*://*.copyadscontent.com/*
+*://*.directchecklist.com/*
+*://*.purwadhika.com/*
+*://*.brainreference.com/*
+*://*.valleyvanguardonline.com/*
+*://*.aiimagetovideo.pro/*
+*://*.aistudios.com/*
+*://*.choose.tv/*
+*://*.pc.net.tr/*
+*://*.influencermarketinghub.com/*
+*://*.jackrighteous.com/*
+*://*.theurduclub.com/*
+*://*.ansarisahab.com/*
+*://*.getafollower.com/*
+*://*.neuronad.com/*
+*://*.resocraft.com/*
+*://*.zyncai.com/*
+*://*.knowyourmeme.com/memes/ai-manga-filter-tiktok
+*://*.dailydot.com/ai-slop-videos-of-cheating-fruit-are-taking-over-tiktok
+*://*.filmstories.co.uk/*
+*://*.knowyourmeme.com/editorials/guides/what-is-the-ai-baby-holding-laugh-meme-the-viral-niche-baby-tiktok-meme-of-a-swaggy-infant-covering-its-mouth-explained
+*://*.kolsprite.com/*
