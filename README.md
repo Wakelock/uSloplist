@@ -20,9 +20,10 @@ https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist.
 1. Which websites does it block?
 > Sites which:
 > - Host a large amount of AI-generated content, especially those from companies who heavily invest in AI (e.g., Adobe, MSN, TikTok, etc).
-> - - Some credible websites are whitelisted, but specific parts of them could be filtered if they contain slop and no educational value.
+> - - Some credible or popular websites are whitelisted, but specific parts of them could be filtered if they contain too much slop and little to no educational value.
 > - Stream stolen music altered by AI beyond comprehension.
 > - Publish baseless and likely-slop articles from an unknown writer.
+> - Make tutorials on how to flood the internet with slop.
 
 2. Does it block political content?
 > *Mostly not*. Political sites are less likely to be blocked, in order to prevent censorship and bias. The only such websites intended to be blocked must be obscure, baseless and almost if not completely AI-generated, whose images show up on search results.
