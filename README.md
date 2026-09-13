@@ -30,8 +30,10 @@ https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist.
 > We try our best to avoid false positives. The most likely false positives would be from photos, which overuse: Focus blur; Oilify; Sharpen, or other filters, and art, which we deem: "soulless"; "disproportionate", or "excessively smooth and colorful" (e.g., [Corporate Memphis](https://en.wikipedia.org/wiki/Corporate_Memphis)), or from music, which we deem "unnatural" due to "overuse of audio trimming and [AutoTune](https://en.wikipedia.org/wiki/Autotune)".
 4. Which characteristics of a website could contribute to blocking?
 > Although the characteristics are not enough when standalone, they could help us decide whether to block a website if we were doubtful of its usefulness to slop. Included are characteristics such as: required account creation; mandatory JavaScript; pestering to disable adblockers; unknown authorship; DRM; etc.
-5. Why filter out TikTok?
-> Due to short-form media's heavily-algorithmic structure, it's rarely useful to find meaningful content. In order to appease the algorithm, short-form videos are conditioned to be optimally attention-grabbing to the unwaveringly-diminishing attention spans of its users.
+5. How to whitelist a site?
+> - Visit a search results page, click the uBlacklist logo at the top right corner.
+> - Mouseover at the blocked website (which should be highlighted), and then click the uBlacklist logo which just appeared.
+> - A menu should pop up, then click "Unblock". If you imported uSloplist, that would remove it from your list. If you subscribed to uSloplist, that would add the site with an additional "@" at the beginning.
 
 ## See also
 - [AIMania](https://github.com/Vxrpenter/AIMania)
