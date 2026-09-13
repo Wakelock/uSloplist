@@ -2,8 +2,11 @@
 @*://*.androidauthority.com/*
 @*://*.bandcamp.com/*
 @*://*.bbc.co.uk/*
+@*://*.douyin.com/*
 @*://*.etsy.com/*
 @*://*.facebook.com/*
+@*://*.pixiv.net/*
+@*://*.tiktok.com/*
 @*://*.x.com/*
 
 # Chatbots
@@ -328,7 +331,6 @@
 *://*.cryptobenelux.com/*
 *://*.alphire.com/*
 *://*.datagrom.com/*
-*://*.douyin.com/*
 *://*.ethicalfounder.com/*
 *://*.devaigen.com/*
 *://*.tnaccounting.com.au/*
@@ -467,7 +469,6 @@
 *://*.habitmentors.com/*
 *://*.talkie-ai.com/*
 *://*.lifenac.org/*
-*://*.tiktok.com/*
 *://*.unrudodespertar.tv/*
 *://*.theshoemakerreport.com/*
 *://*.adilsoncardoso.com/*
@@ -1007,8 +1008,7 @@
 *://*.beatmo.live/*
 *://*.icran.org/*
 *://*.kanakaw.com/*
-*://*.tumblr.com/*
-*://*.pixiv.net/*
+*://*.tumblr.com/
 *://*.fbc-paloalto.org/*
 *://*.fapify.com/*
 *://*.publish0x.com/*
