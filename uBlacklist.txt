@@ -1048,7 +1048,6 @@
 *://*.globaltechcouncil.org/*
 *://*.ai-toolr.com/*
 *://*.businesssaga.in/*
-*://*.youtube.com/*
 *://*.techfinitive.com/*
 *://*.ilearnlot.com/*
 *://*.commonlegalquestions.com/*
@@ -1101,3 +1100,4 @@
 *://*.filmstories.co.uk/*
 *://*.knowyourmeme.com/editorials/guides/what-is-the-ai-baby-holding-laugh-meme-the-viral-niche-baby-tiktok-meme-of-a-swaggy-infant-covering-its-mouth-explained
 *://*.kolsprite.com/*
+*://*.sendapp.live/*
