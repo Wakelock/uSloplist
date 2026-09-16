@@ -1107,3 +1107,12 @@
 *://*.theswissquality.ch/*
 *://*.modernconnective.com/*
 *://*.aiforsocialgood.ca/*
+*://*.civitai.red/*
+*://*.elon.io/*
+*://*.magicalbookmarks.com/*
+*://*.engageprosolutions.co.uk/*
+*://*.flagman.bg/*
+*://*.otupor.com/*
+*://*.iskra.bg/*
+*://*.nakaffe.com/*
+*://*.actualno.com/*
