@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist.
 > - Mouseover at the blocked website (which should be highlighted), and then click the uBlacklist logo which just appeared.
 > - A menu should pop up, then click "Unblock".
 > - - If you imported uSloplist (which is not recommended), that would remove the site from your list. If you subscribed to uSloplist, that would add the site with an additional "@" at its line's beginning to your own list.
-> - - If you believe that the said site had been unjustly blacklisted, feel free to [report an issue](https://github.com/Wakelock/uSloplist/issues/new).
+> - - If you believe that the said site has been unjustly blacklisted, feel free to [report an issue](https://github.com/Wakelock/uSloplist/issues/new).
 
 ## See also
 - [AIMania](https://github.com/Vxrpenter/AIMania)
