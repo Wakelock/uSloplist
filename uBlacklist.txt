@@ -4,7 +4,6 @@
 @*://*.bbc.co.uk/*
 @*://*.douyin.com/*
 @*://*.etsy.com/*
-@*://*.facebook.com/*
 @*://*.pixiv.net/*
 @*://*.tiktok.com/*
 @*://*.x.com/*
@@ -28,6 +27,11 @@
 *://*.youtube.com/watch?v=4Eg_UgpAw_M
 *://*.youtube.com/watch?v=R3hmAO_KWrc
 *://*.youtube.com/watch?v=nkmvUJ5Xaxc
+*://*.youtube.com/watch?v=fJs_VEMfeNE
+*://*.youtube.com/watch?v=3UDdX_oiutE
+*://*.youtube.com/watch?v=UDmQrgzBysE
+*://*.youtube.com/watch?v=LnaCd7suX3Q
+*://*.youtube.com/@Ozzyfox-musicforkids
 
 # Images
 *://*.booboone.com/*
@@ -1116,3 +1120,8 @@
 *://*.iskra.bg/*
 *://*.nakaffe.com/*
 *://*.actualno.com/balkani/gyrcite-shte-tegljat-pari-v-broj-ot-magazinite-news_2531826.html
+*://*.facebook.com/photo/?fbid=122160252836872713
+*://*.greatercollinwood.org/*
+*://*.nogoyslop.com/*
+*://*.musicianwave.com/*
+*://*.rbc.ru/*
