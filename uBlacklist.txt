@@ -32,6 +32,8 @@
 *://*.youtube.com/watch?v=UDmQrgzBysE
 *://*.youtube.com/watch?v=LnaCd7suX3Q
 *://*.youtube.com/@Ozzyfox-musicforkids
+*://*.youtube.com/watch?v=Mvn7KBhmVWc
+*://*.youtube.com/watch?v=J09FghNHXF0
 
 # Images
 *://*.booboone.com/*
@@ -1125,3 +1127,33 @@
 *://*.nogoyslop.com/*
 *://*.musicianwave.com/*
 *://*.rbc.ru/*
+*://*.pibig.info/*
+*://*.purina.ru/*
+*://*.petsi.net/*
+*://*.novochag.ru/*
+*://*.quality21.ru/*
+*://*.agendadigitale.eu/*
+*://*.exegue.com/*
+*://*.explosionsportswear.com/*
+*://*.bigfirefashion.com/*
+*://*.washingtonpost.com/style/of-interest/2024/06/30/ai-art-facebook-slop-artificial-intelligence/
+*://*.whatjobs.com/*
+*://*.erp.compare/*
+*://*.colorconfetti.com/*
+*://*.muttermilchbanken.de/*
+*://*.tooltrendai.com/*
+*://*.techiesguardian.com/*
+*://*.plainfieldnhlibrary.org/*
+*://*.printable.de.com/*
+*://*.messengerbot.app/*
+*://*.theeducationmagazine.com/*
+*://*.aianimegen.com/*
+*://*.sharkfoto.com/*
+*://*.zestygen.com/*
+*://*.cosplaytele.com/*
+*://*.pixso.net/*
+*://*.mephotoshoot.blogspot.com/*
+*://*.approachableai.com/*
+*://*.jotform.com/*
+*://*.ailookbook.com/*
+*://*.softonic.kr/*
