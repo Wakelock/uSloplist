@@ -2,6 +2,7 @@
 @*://*.androidauthority.com/*
 @*://*.bandcamp.com/*
 @*://*.bbc.co.uk/*
+@*://*.bbc.com/*
 @*://*.douyin.com/*
 @*://*.etsy.com/*
 @*://*.pixiv.net/*
@@ -36,6 +37,8 @@
 *://*.youtube.com/watch?v=J09FghNHXF0
 *://*.youtube.com/watch?v=nlW03RyK2vI
 *://*.youtube.com/watch?v=0bEoN3j_N_o
+*://*.youtube.com/watch?v=49kVhliV3Nw
+*://*.youtube.com/watch?v=Z0rcfexqQt4
 
 # Images
 *://*.booboone.com/*
@@ -1230,3 +1233,28 @@
 *://*.girlfriendgpt.co.uk/*
 *://*.ai-girlfriend-app.net/*
 *://*.bilibili.tv/en/video/4800799524920320
+*://*.reddit.com/r/The_AI_Library/*
+*://*.techjuice.pk/*
+*://*.telanganatoday.com/*
+*://*.theaibugle.com/*
+*://*.roboaegisai.com/*
+*://*.friend2chat.com/*
+*://*.aiwhylive.com/*
+*://*.gridinsoft.com/*
+*://*.financialcontent.com/*
+*://*.weavai.app/*
+*://*.einpresswire.com/*
+*://*.dailymotion.com/video/xbdf8ki
+*://*.fortnite.gg/*
+*://*.riddleedge.com/*
+*://*.knowyourmeme.com/memes/ai-cat-stories-sad-meow-meow-song
+*://*.dailycoin.com/*
+*://*.cryptoflexs.com/*
+*://*.bittime.com/*
+*://*.mazezy.com/*
+*://*.cryptodamus.io/*
+*://*.bullish-times.com/*
+*://*.jammable.com/*
+*://*.babylonbee.com/news/10-ways-an-ai-wife-is-better-than-a-real-one
+*://*.beezbot.com/*
+*://*.your-ai-girl.com/*
