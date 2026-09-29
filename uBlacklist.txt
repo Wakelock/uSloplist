@@ -5,9 +5,9 @@
 @*://*.bbc.com/*
 @*://*.douyin.com/*
 @*://*.etsy.com/*
+@*://*.imgflip.com/*
 @*://*.pixiv.net/*
 @*://*.tiktok.com/*
-@*://*.x.com/*
 
 # Chatbots
 *://gemini.google.com/*
@@ -39,6 +39,7 @@
 *://*.youtube.com/watch?v=0bEoN3j_N_o
 *://*.youtube.com/watch?v=49kVhliV3Nw
 *://*.youtube.com/watch?v=Z0rcfexqQt4
+*://*.youtube.com/watch?v=uqcoTwPUSn4
 
 # Images
 *://*.booboone.com/*
@@ -1258,3 +1259,54 @@
 *://*.babylonbee.com/news/10-ways-an-ai-wife-is-better-than-a-real-one
 *://*.beezbot.com/*
 *://*.your-ai-girl.com/*
+*://*.techmaniacs.gr/*
+*://*.advocategandhi.com/*
+*://*.theconversation.com/*
+*://*.drainpipe.io/*
+*://*.tjrobertson.com/*
+*://*.technologicinnovation.com/*
+*://*.sapo.pt/*
+*://*.sellershorts.com/*
+*://*.autologygeeks.com/*
+*://*.getcoai.com/*
+*://*.tecnoloblog.com/*
+*://*.coindizzy.com/*
+*://*.every.to/*
+*://*.merca20.com/*
+*://*.magicmilemedia.com/*
+*://*.likeadad.net/*
+*://*.leadingai.co.uk/*
+*://*.adeptmotionsdigitalmarketing.com/*
+*://*.newsbytesapp.com/news/science/ai-slop-creates-demand-for-human-editors-and-creative-freelancers/*
+*://*.memesguy.com/*
+*://*.fromlight2art.com/*
+*://*.em360tech.com/*
+*://*.zoo-roco.ch/*
+*://*.theenvironmentalblog.org/*
+*://*.sleep365.com/*
+*://*.roomforcat.com/*
+*://*.catster.com/*
+*://*.x.com/pajamascat_sol*
+*://*.reddit.com/r/ImagineAiArt/*
+*://*.selfmadenewbie.com/*
+*://*.nofuentesmodels.com/*
+*://*.monica.im/*
+*://*.pricechacha.com/*
+*://*.aicreationtool.com/*
+*://*.fiddl.art/*
+*://*.pcguide.com/*
+*://*.now.gg/*
+*://*.waifusynth.com/*
+*://*.netfranklinblog.blob.core.windows.net/*
+*://*.pakaiandesain.blogspot.com/*
+*://*.apple.com/*app/ai-anime-ai-art-generator*
+*://*.coccoc.com/*
+*://*.techlasi.com/*
+*://*.note.com/*
+*://*.apple.com/*app/ai-anime-maker-avatar-creator*
+*://*.getphotoshoot.com/*
+*://*.ilikeimg.com/*
+*://*.flux1.so/*
+*://*.vcgamers.com/*
+*://*.tools-ai.online/*
+*://*.slideserve.com/*
