@@ -5,6 +5,7 @@
 @*://*.bbc.com/*
 @*://*.douyin.com/*
 @*://*.etsy.com/*
+@*://*.fiverr.com/*
 @*://*.imgflip.com/*
 @*://*.pixiv.net/*
 @*://*.tiktok.com/*
@@ -14,6 +15,11 @@
 
 # Wildcards
 *://*.ai/*
+
+# Reddit
+*://*.reddit.com/r/The_AI_Library/*
+*://*.reddit.com/r/ImagineAiArt/*
+*://*.reddit.com/r/ai_disney_posters/*
 
 # YouTube
 *://*.youtube.com/watch?v=3uJhslBBAL8
@@ -1234,7 +1240,6 @@
 *://*.girlfriendgpt.co.uk/*
 *://*.ai-girlfriend-app.net/*
 *://*.bilibili.tv/en/video/4800799524920320
-*://*.reddit.com/r/The_AI_Library/*
 *://*.techjuice.pk/*
 *://*.telanganatoday.com/*
 *://*.theaibugle.com/*
@@ -1287,7 +1292,6 @@
 *://*.roomforcat.com/*
 *://*.catster.com/*
 *://*.x.com/pajamascat_sol*
-*://*.reddit.com/r/ImagineAiArt/*
 *://*.selfmadenewbie.com/*
 *://*.nofuentesmodels.com/*
 *://*.monica.im/*
@@ -1299,14 +1303,45 @@
 *://*.waifusynth.com/*
 *://*.netfranklinblog.blob.core.windows.net/*
 *://*.pakaiandesain.blogspot.com/*
-*://*.apple.com/*app/ai-anime-ai-art-generator*
+*://*.apple.com/*app/ai-anime*
 *://*.coccoc.com/*
 *://*.techlasi.com/*
 *://*.note.com/*
-*://*.apple.com/*app/ai-anime-maker-avatar-creator*
 *://*.getphotoshoot.com/*
 *://*.ilikeimg.com/*
 *://*.flux1.so/*
 *://*.vcgamers.com/*
 *://*.tools-ai.online/*
 *://*.slideserve.com/*
+*://*.epicvr.pl/*
+*://*.howtogeek.com/*
+*://*.lucasgraphic.com/*
+*://*.digitalinformationworld.com/*
+*://*.stayingalive.in/*
+*://*.haimagazine.com/*
+*://*.aidaily.us/*
+*://*.martinkaessler.com/*
+*://*.zimbio.com/*
+*://*.kinetics.co.nz/*
+*://*.speakonstage.com/*
+*://*.reporterzy.info/*
+*://*.geekextreme.com/*
+*://*.topgadgetinfo.com/*
+*://*.urtech.ca/*
+*://*.free-codecs.com/*
+*://*.kellerwilliamscarlsbad.com/*
+*://*.disneypixaraigenerator.com/*
+*://*.primanyc.net/*
+*://*.joyenergizer.com/*
+*://*.easy-nomad.com/*
+*://*.procapitas.com/*
+*://*.coastalcontent.co.uk/*
+*://*.365webdesign.co.uk/*
+*://*.kowatek.com/*
+*://*.steadyincomeinvestments.com/*
+*://*.inkyma.com/*
+*://*.techcrums.com/*
+*://*.peopleofcolorintech.com/*
+*://*.pulsetoday.co.uk/*
+*://*.admakeai.com/*
+*://*.techimaging.co.uk/*
