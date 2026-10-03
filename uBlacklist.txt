@@ -19,7 +19,7 @@ homepage: https://github.com/Wakelock/uSloplist
 
 # Wildcards
 *://*.ai/*
-title =~ /ai (anime|art|code|disney|husband|generat|image|manga|music|photo|picture|porn|video|waifu|wife)/i
+title =~ /ai( |-)(anime|art|code|disney|generat|husband|image|manga|music|photo|picture|porn|video|waifu|wife)/i
 title =~ /(brainrot|brain rot)/i
 
 # Reddit
