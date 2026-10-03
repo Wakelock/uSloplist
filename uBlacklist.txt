@@ -1,3 +1,7 @@
+---
+name: uSloplist
+homepage: https://github.com/Wakelock/uSloplist
+---
 # Whitelist
 @*://*.androidauthority.com/*
 @*://*.bandcamp.com/*
@@ -5,7 +9,6 @@
 @*://*.bbc.com/*
 @*://*.douyin.com/*
 @*://*.etsy.com/*
-@*://*.fiverr.com/*
 @*://*.imgflip.com/*
 @*://*.pixiv.net/*
 @*://*.tiktok.com/*
@@ -1330,6 +1333,7 @@
 *://*.urtech.ca/*
 *://*.free-codecs.com/*
 *://*.kellerwilliamscarlsbad.com/*
+*://*.fiverr.com/*
 *://*.disneypixaraigenerator.com/*
 *://*.primanyc.net/*
 *://*.joyenergizer.com/*
@@ -1345,3 +1349,52 @@
 *://*.pulsetoday.co.uk/*
 *://*.admakeai.com/*
 *://*.techimaging.co.uk/*
+*://*.aimonk.com/*
+*://*.midhudsonaddictionrecovery.com/*
+*://*.mycannabis.com/*
+*://*.cobboutpatientdetox.com/*
+*://*.greenreliefhealth.com/*
+*://*.enotalone.com/*
+*://*.gardenstatetreatmentcenter.com/*
+*://*.legaldistributionnj.com/*
+*://*.georgiaaddictiontreatmentcenter.com/*
+*://*.royalblack.ca/*
+*://*.emmausmedicalandrecovery.com/*
+*://*.drdavidsack.com/*
+*://*.rankmyai.com/*
+*://*.mesmer.tools/*
+*://aistudio.google.com/*
+*://*.brunch.co.kr/*
+*://*.richlyai.com/*
+*://*.businessinsider.com/*
+*://*.ai-demand.com/*
+*://*.vegavid.com/*
+*://*.cdotimes.com/*
+*://*.exchange.design/*
+*://*.guga.or.jp/*
+*://*.aitools.inc/*
+*://*.som2015.org/*
+*://*.hkr.cn/*
+*://*.supplychainasia.org/*
+*://*.gogetgpt.com/*
+*://*.imartificiallyintelligent.com/*
+*://*.techshark.io/*
+*://*.sendbird.com/*
+*://*.aimarketingtools.com/*
+*://*.callin.io/*
+*://*.globalperspectives.info/*
+*://*.digitechinfo.net/*
+*://*.ftcpublications.com/*
+*://*.perplexityaimagazine.com/*
+*://*.aitude.com/*
+*://*.pujansikder.com/*
+*://*.gmsmediagroup.com/*
+*://*.aivyx.com/*
+*://*.datacamp.com/*
+*://*.fanso.io/*
+*://*.ayecha.org/*
+*://*.tancannonblog.blob.core.windows.net/*
+*://*.regis-training.co.uk/*
+*://*.bestpetscorner.com/*
+*://*.vectorstock.com/*
+*://*.metabetageek.com/*
