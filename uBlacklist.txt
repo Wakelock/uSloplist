@@ -11,6 +11,7 @@ homepage: https://github.com/Wakelock/uSloplist
 @*://*.etsy.com/*
 @*://*.imgflip.com/*
 @*://*.pixiv.net/*
+@*://*.playstation.com/*
 @*://*.tiktok.com/*
 
 # Chatbots
@@ -18,6 +19,8 @@ homepage: https://github.com/Wakelock/uSloplist
 
 # Wildcards
 *://*.ai/*
+title =~ /ai (anime|art|code|disney|husband|generat|image|manga|music|photo|picture|porn|video|waifu|wife)/i
+title =~ /(brainrot|brain rot)/i
 
 # Reddit
 *://*.reddit.com/r/The_AI_Library/*
@@ -1398,3 +1401,12 @@ homepage: https://github.com/Wakelock/uSloplist
 *://*.bestpetscorner.com/*
 *://*.vectorstock.com/*
 *://*.metabetageek.com/*
+*://*.gradasigo.com/*
+*://*.calendar.us.org/*
+*://*.animalbrainrot.com/*
+*://*.theitalianbrainrot.com/*
+*://*.playbrainrot.org/*
+*://*.drfarrahmd.com/*
+*://*.brainrothub.com/*
+*://*.soapcentral.com/*
+*://*.kabarjawa.com/*
