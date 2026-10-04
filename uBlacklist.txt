@@ -2,6 +2,10 @@
 name: uSloplist
 homepage: https://github.com/Wakelock/uSloplist
 ---
+
+# Priority list
+@1*://*.www.newgrounds.com/art/*
+
 # Whitelist
 @*://*.androidauthority.com/*
 @*://*.bandcamp.com/*
@@ -19,8 +23,8 @@ homepage: https://github.com/Wakelock/uSloplist
 
 # Wildcards
 *://*.ai/*
-title =~ /ai( |-)(anime|art|code|disney|generat|husband|image|manga|music|photo|picture|porn|video|waifu|wife)/i
-title =~ /(brainrot|brain rot)/i
+title =~ /(ai|ia)( |-|_)(anime|art|code|coding|disney|generat|guide|husband|image|tool|manga|meme|music|photo|picture|porn|video|waifu|wife)/i
+title =~ /(artificial intelligence|brainrot|brain rot|genai|generative ai|inteligencia artificial|midjourney|stable diffusion)/i
 
 # Reddit
 *://*.reddit.com/r/The_AI_Library/*
@@ -1425,3 +1429,27 @@ title =~ /(brainrot|brain rot)/i
 *://*.editingbyvikas.com/*
 *://*.allesora.com/*
 *://*.wordybirds.org/*
+*://*.appfollow.io/*
+*://*.animalreport.net/*
+*://*.avesei.com/*
+*://*.giojvhjpj.blob.core.windows.net/*
+*://*.plix.gg/*
+*://*.streetslang.com/*
+*://*.thanglongwaterpuppet.org/*
+*://*.gossipherald.com/*
+*://*.pajaritotimes.com/*
+*://*.editorialge.com/*
+*://*.digitalartists.com/*
+*://*.altcoinoracle.com/*
+*://*.enepsters.com/*
+*://*.tipseason.com/*
+*://*.gamsgo.com/*
+*://*.oceancgi.com/*
+*://*.masterbundles.com/*
+*://*.thedesignest.net/*
+*://*.thinkmaverick.com/*
+*://*.uisdc.com/*
+*://*.memegenerator.es/*
+*://*.whereamigame.app/*
+*://*.ere.gov.al/*
+*://*.aigeneratememe.com/*
