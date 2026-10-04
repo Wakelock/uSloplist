@@ -24,7 +24,7 @@ homepage: https://github.com/Wakelock/uSloplist
 # Wildcards
 *://*.ai/*
 title =~ /(ai|ia)( |-|_)(anime|art|code|coding|disney|generat|guide|husband|image|tool|manga|meme|music|photo|picture|porn|video|waifu|wife)/i
-title =~ /(artificial intelligence|brainrot|brain rot|genai|generative ai|inteligencia artificial|midjourney|stable diffusion)/i
+title =~ /(anthropic|artificial intelligence|brainrot|brain rot|chatbot|chatgpt|comfyui|chat bot|genai|generative ai|huggingface|hugging face|inteligencia artificial|künstliche intelligenz|midjourney|openai|sora (2|ai|video)|stable diffusion)/i
 
 # Reddit
 *://*.reddit.com/r/The_AI_Library/*
