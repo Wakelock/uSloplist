@@ -19,8 +19,9 @@ homepage: https://github.com/Wakelock/uSloplist
 @*://*.pixiv.net/*
 @*://*.playstation.com/*
 @*://*.tiktok.com/*
+@*://*.tumblr.com/
 
-# Chatbots
+# GPTs
 *://gemini.google.com/*
 
 # Wildcards
@@ -1038,7 +1039,6 @@ $category = "images" & host = "brcc.church"
 *://*.beatmo.live/*
 *://*.icran.org/*
 *://*.kanakaw.com/*
-*://*.tumblr.com/
 *://*.fbc-paloalto.org/*
 *://*.fapify.com/*
 *://*.publish0x.com/*
