@@ -4,7 +4,9 @@ homepage: https://github.com/Wakelock/uSloplist
 ---
 
 # Priority list
-@1*://*.www.newgrounds.com/art/*
+@1*://*.cara.app/* # Prohibits AI
+@1*://*.magma.com/* # Prohibits AI, permits AI-assisted
+@1*://*.newgrounds.com/art/* # Prohibits AI, permits AI-assisted
 
 # Whitelist
 @*://*.androidauthority.com/*
@@ -1478,3 +1480,6 @@ $category = "images" & host = "brcc.church"
 *://*.dreamomen.com/*
 *://*.nanitalk.com/*
 $category = "images" & host = "worldeventsandthebible.com"
+*://*.torry.io/*
+*://*.tensorhub.art/*
+*://*.vibegrounds.com/*
