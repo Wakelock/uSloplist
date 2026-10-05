@@ -13,13 +13,14 @@ homepage: https://github.com/Wakelock/uSloplist
 @*://*.bbc.com/*
 @*://*.douyin.com/*
 @*://*.etsy.com/*
+@*://*.flathub.org/*
+@*://*.fosslinux.com/*
 @*://*.imgflip.com/*
 @*://*.pixiv.net/*
 @*://*.playstation.com/*
 @*://*.tiktok.com/*
-@*://*.tumblr.com/
 
-# GPTs
+# Chatbots
 *://gemini.google.com/*
 
 # Wildcards
@@ -1037,6 +1038,7 @@ $category = "images" & host = "brcc.church"
 *://*.beatmo.live/*
 *://*.icran.org/*
 *://*.kanakaw.com/*
+*://*.tumblr.com/
 *://*.fbc-paloalto.org/*
 *://*.fapify.com/*
 *://*.publish0x.com/*
