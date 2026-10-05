@@ -15,6 +15,7 @@ homepage: https://github.com/Wakelock/uSloplist
 @*://*.bbc.com/*
 @*://*.douyin.com/*
 @*://*.etsy.com/*
+@*://*.fiverr.com/*
 @*://*.flathub.org/*
 @*://*.fosslinux.com/*
 @*://*.imgflip.com/*
@@ -1343,7 +1344,6 @@ $category = "images" & host = "brcc.church"
 *://*.urtech.ca/*
 *://*.free-codecs.com/*
 *://*.kellerwilliamscarlsbad.com/*
-*://*.fiverr.com/*
 *://*.disneypixaraigenerator.com/*
 *://*.primanyc.net/*
 *://*.joyenergizer.com/*
