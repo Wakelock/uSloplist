@@ -17,14 +17,15 @@ homepage: https://github.com/Wakelock/uSloplist
 @*://*.pixiv.net/*
 @*://*.playstation.com/*
 @*://*.tiktok.com/*
+@*://*.tumblr.com/
 
-# Chatbots
+# GPTs
 *://gemini.google.com/*
 
 # Wildcards
 *://*.ai/*
 title =~ /(ai|ia)( |-|_)(anime|art|code|coding|disney|generat|guide|husband|image|tool|manga|meme|music|photo|picture|porn|video|waifu|wife)/i
-title =~ /(anthropic|artificial intelligence|brainrot|brain rot|chatbot|chatgpt|comfyui|chat bot|genai|generative ai|huggingface|hugging face|inteligencia artificial|künstliche intelligenz|midjourney|openai|sora (2|ai|video)|stable diffusion)/i
+title =~ /(anthropic|artificial intelligence|brainrot|brain rot|chatbot|civitai|comfyui|chat bot|genai|generative ai|gpt|huggingface|hugging face|inteligencia artificial|künstliche intelligenz|midjourney|openai|sora (2|ai|video)|stable diffusion)/i
 
 # Reddit
 *://*.reddit.com/r/The_AI_Library/*
@@ -282,7 +283,7 @@ title =~ /(anthropic|artificial intelligence|brainrot|brain rot|chatbot|chatgpt|
 *://*.jesus-our-blessed-hope.com/*
 *://*.miracles-of-jesus.com/*
 *://*.christian.net/*
-*://*.brcc.church/*
+$category = "images" & host = "brcc.church"
 *://*.answeredfaith.com/*
 *://*.comeandreason.com/*
 *://*.manofmany.com/*
@@ -1036,7 +1037,6 @@ title =~ /(anthropic|artificial intelligence|brainrot|brain rot|chatbot|chatgpt|
 *://*.beatmo.live/*
 *://*.icran.org/*
 *://*.kanakaw.com/*
-*://*.tumblr.com/
 *://*.fbc-paloalto.org/*
 *://*.fapify.com/*
 *://*.publish0x.com/*
@@ -1453,3 +1453,26 @@ title =~ /(anthropic|artificial intelligence|brainrot|brain rot|chatbot|chatgpt|
 *://*.whereamigame.app/*
 *://*.ere.gov.al/*
 *://*.aigeneratememe.com/*
+*://*.phygital.plus/*
+*://*.sling.com/*
+*://*.traveltweaks.com/*
+*://*.psychologytoday.com/*
+*://*.cakeequity.com/*
+*://*.opendatascience.com/*
+*://*.cio.com/*
+*://*.tieto.com/*
+*://*.figma.com/*
+*://*.nateross.dev/*
+*://*.nyckel.com/*
+*://*.anakin0.blogspot.com/*
+*://*.yenra.com/*
+*://*.tellstory.net/*
+*://*.bellatorchristi.com/*
+*://*.qaqooking.wiki/*
+*://*.thehistoricfaith.com/*
+*://*.livingwaters.com/*
+*://*.trulyisaytoyou.com/*
+*://*.jimbeamsbar.de/*
+*://*.dreamomen.com/*
+*://*.nanitalk.com/*
+$category = "images" & host = "worldeventsandthebible.com"
