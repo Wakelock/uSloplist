@@ -568,7 +568,6 @@ $category = "images" & host = "brcc.church"
 *://*.animalhub.earth/*
 *://*.availpet.com/*
 *://*.newsbreak.com/*
-*://*.pexels.com/*
 *://*.schertzanimalhospital.com/*
 *://*.clubcatt.com/*
 *://*.pangovet.com/*
@@ -1483,3 +1482,8 @@ $category = "images" & host = "worldeventsandthebible.com"
 *://*.torry.io/*
 *://*.tensorhub.art/*
 *://*.vibegrounds.com/*
+*://*.puppynameideas.com/*
+*://*.truckstrend.com/*
+*://*.keyirobot.com/*
+*://*.dataconomy.com/*
+*://*.fineartamerica.com/*
