@@ -9,7 +9,8 @@ Anti-AI ruleset for [uBlacklist](https://github.com/iorate/ublacklist) and uBloc
 - - Highlights AI-free websites (uBlacklist only)
 - Whitelist
 - - Prevents itself from blocking important websites
-
+- Free speech
+- - Users are encouraged to share feedback on GitHub
 
 ## Setup
 Copy
