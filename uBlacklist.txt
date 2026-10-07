@@ -22,15 +22,15 @@ homepage: https://github.com/Wakelock/uSloplist
 @*://*.pixiv.net/*
 @*://*.playstation.com/*
 @*://*.tiktok.com/*
-@*://*.tumblr.com/
+@*://*.tumblr.com/*
 
 # GPTs
 *://gemini.google.com/*
 
 # Wildcards
 *://*.ai/*
-title =~ /(ai|ia)( |-|_)(anime|art|code|coding|disney|generat|guide|husband|image|tool|manga|meme|music|photo|picture|porn|video|waifu|wife)/i
-title =~ /(anthropic|artificial intelligence|brainrot|brain rot|chatbot|civitai|comfyui|chat bot|genai|generative ai|gpt|huggingface|hugging face|inteligencia artificial|künstliche intelligenz|midjourney|openai|sora (2|ai|video)|stable diffusion)/i
+title =~ /(ai|ia|ki|ии)( |-|_)(anime|art|bild|code|coding|disney|gener|guide|husband|image|tool|manga|meme|music|photo|picture|porn|video|waifu|wife|изображени|сервисов)/i
+title =~ /(anthropic|artificial intelligence|brainrot|brain( |-|_)rot|chatbot|civitai|comfyui|chat( |-|_)bot|genai|generative( |-|_)ai|gpt|huggingface|hugging( |-|_)face|inteligencia( |-|_)artificial|künstliche( |-|_)intelligenz|midjourney|openai|sora( |-|_)(2|ai|video)|stable( |-|_)diff)/i
 
 # Reddit
 *://*.reddit.com/r/The_AI_Library/*
@@ -1487,3 +1487,22 @@ $category = "images" & host = "worldeventsandthebible.com"
 *://*.keyirobot.com/*
 *://*.dataconomy.com/*
 *://*.fineartamerica.com/*
+*://*.howtoisolve.com/*
+*://*.izoate.com/*
+*://*.colobridge.net/*
+*://*.kis.software/*
+*://*.digiwin.com/*
+*://*.elbrusboot.camp/*
+*://*.tutortop.ru/*
+*://*.tenchat.ru/*
+*://*.fiercetattoostudio.com/*
+*://*.windowsnoticias.com/*
+*://*.creativosonline.org/*
+*://*.unicraft.org/*
+*://*.teletype.in/*
+*://*.eloutput.com/*
+*://*.createimg.com/*
+*://*.magiceraser.org/*
+*://*.overclockers.ru/*
+*://*.cisoclub.ru/*
+*://*.chatgptgid.com/*

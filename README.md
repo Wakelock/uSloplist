@@ -3,7 +3,7 @@ Anti-AI ruleset for [uBlacklist](https://github.com/iorate/ublacklist) and uBloc
 
 ## Features
 - Blacklist
-- - Blocks more than 1.4K websites and images
+- - Blocks more than 1.5K websites and images
 - - Wildcards detect new AI websites automatically
 - Priority list
 - - Highlights AI-free websites (uBlacklist only)
