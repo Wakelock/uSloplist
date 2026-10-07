@@ -4,10 +4,10 @@ Anti-AI ruleset for [uBlacklist](https://github.com/iorate/ublacklist) and uBloc
 ## Features
 - Blacklist
 - - Blocks more than 1.5K websites and images
-- - [Wildcards](https://github.com/Wakelock/uSloplist/blob/7bf492bd600c10d45b8945439f29ab3766d39844/uBlacklist.txt#L32) detect new AI websites automatically
-- [Whitelist](https://github.com/Wakelock/uSloplist/blob/7bf492bd600c10d45b8945439f29ab3766d39844/uBlacklist.txt#L12)
+- - Wildcards detect new AI websites automatically
+- Whitelist
 - - Prevents itself from blocking important websites
-- - [Priority list](https://github.com/Wakelock/uSloplist/blob/7bf492bd600c10d45b8945439f29ab3766d39844/uBlacklist.txt#L5)
+- - Priority list
 - - - Highlights AI-free websites (uBlacklist only)
 - Free speech
 - - Users are encouraged to share feedback on GitHub
