@@ -2,7 +2,6 @@
 name: uSloplist
 homepage: https://github.com/Wakelock/uSloplist
 ---
-
 # Priority list
 @1*://*.cara.app/* # Prohibits AI
 @1*://*.magma.com/* # Prohibits AI, permits AI-assisted
@@ -1528,4 +1527,3 @@ $category = "images" & host = "worldeventsandthebible.com"
 *://*.joingy.com/*
 *://*.salon.com/*
 *://*.jeffbullas.com/*
-*://*.nvidia.com/*
