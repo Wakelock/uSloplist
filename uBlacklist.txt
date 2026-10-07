@@ -33,6 +33,7 @@ homepage: https://github.com/Wakelock/uSloplist
 *://*.ai/*
 title =~ /(ai|ia|ki|ии)( |-|_)(anime|art|bild|code|coding|disney|gener|guide|husband|image|tool|manga|meme|music|photo|picture|porn|video|waifu|wife|изображени|сервисов)/i
 title =~ /(anthropic|artificial intelligence|brainrot|brain( |-|_)rot|chatbot|civitai|comfyui|chat( |-|_)bot|genai|generative( |-|_)ai|gpt|huggingface|hugging( |-|_)face|inteligencia( |-|_)artificial|künstliche( |-|_)intelligenz|midjourney|openai|sora( |-|_)(2|ai|video)|stable( |-|_)diff)/i
+host *= "gpt"
 
 # Reddit
 /reddit\.com\/.*(The_AI_Library|ImagineAiArt|ai_disney_posters|aislop)/
@@ -182,7 +183,6 @@ title =~ /(anthropic|artificial intelligence|brainrot|brain( |-|_)rot|chatbot|ci
 *://*.vctlo.com/*
 *://*.medium.com/*
 *://*.pinterest.com.mx/*
-*://*.gptdemo.net/*
 *://*.edenai.co/*
 *://*.magai.co/*
 *://*.piclumen.com/*
@@ -802,7 +802,6 @@ $category = "images" & host = "brcc.church"
 *://*.biztechcommunity.com/*
 *://*.reviewaiapps.com/*
 *://*.demandsage.com/*
-*://*.glbgpt.com/*
 *://*.technofizi.net/*
 *://*.rajaneditz.com/*
 *://*.reviewnexa.com/*
@@ -1085,7 +1084,6 @@ $category = "images" & host = "brcc.church"
 *://*.growthfolks.io/*
 *://*.husamjandal.com/*
 *://*.thedigitalnexus.xyz/*
-*://*.aigptjournal.com/*
 *://*.leapoutdigital.com/*
 *://*.shoutmeloud.com/*
 *://*.livepage.net/*
@@ -1243,14 +1241,12 @@ $category = "images" & host = "brcc.church"
 *://*.punsgamma.com/*
 *://*.promptseen.co.in/*
 *://*.theaihunter.com/*
-*://*.flowgpt.com/*
 *://*.currentindia.com/*
 *://*.firmsuggest.com/*
 *://*.mohamedmmblog.tech/*
 *://*.vipcn.com/*
 *://*.manoloremiddi.com/*
 *://*.aigirlfriendreview.com/*
-*://*.girlfriendgpt.co.uk/*
 *://*.ai-girlfriend-app.net/*
 *://*.bilibili.tv/en/video/4800799524920320
 *://*.techjuice.pk/*
@@ -1385,7 +1381,6 @@ $category = "images" & host = "brcc.church"
 *://*.som2015.org/*
 *://*.hkr.cn/*
 *://*.supplychainasia.org/*
-*://*.gogetgpt.com/*
 *://*.imartificiallyintelligent.com/*
 *://*.techshark.io/*
 *://*.sendbird.com/*
@@ -1421,7 +1416,6 @@ $category = "images" & host = "brcc.church"
 *://*.raphaelai.org/*
 *://*.aiphotogenerator.net/*
 *://*.classicjapcycles.com/*
-*://*.imagegpt.io/*
 *://*.blogbursthub.com/*
 *://*.clickwithsal.com/*
 *://*.photoaistudio.com/*
@@ -1504,7 +1498,6 @@ $category = "images" & host = "worldeventsandthebible.com"
 *://*.magiceraser.org/*
 *://*.overclockers.ru/*
 *://*.cisoclub.ru/*
-*://*.chatgptgid.com/*
 *://*.slop.claims/*
 *://*.webstylerei.de/*
 *://*.clothmyths.com/*
@@ -1524,3 +1517,14 @@ $category = "images" & host = "worldeventsandthebible.com"
 *://*.joingy.com/*
 *://*.salon.com/*
 *://*.jeffbullas.com/*
+*://*.appbrain.com/*
+*://*.kit.com/*
+*://*.techi.com/*
+*://*.pinterest.cl/*
+*://*.pinterest.jp/*
+*://*.slangsphere.com/*
+*://*.wordhint.net/*
+*://*.aikitreviews.blogspot.com/*
+*://*.ai-bot.cn/*
+*://*.allaiwebsite.com/*
+*://*.aitwin.ninja/*
