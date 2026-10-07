@@ -35,10 +35,7 @@ title =~ /(ai|ia|ki|ии)( |-|_)(anime|art|bild|code|coding|disney|gener|guide|h
 title =~ /(anthropic|artificial intelligence|brainrot|brain( |-|_)rot|chatbot|civitai|comfyui|chat( |-|_)bot|genai|generative( |-|_)ai|gpt|huggingface|hugging( |-|_)face|inteligencia( |-|_)artificial|künstliche( |-|_)intelligenz|midjourney|openai|sora( |-|_)(2|ai|video)|stable( |-|_)diff)/i
 
 # Reddit
-*://*.reddit.com/r/The_AI_Library/*
-*://*.reddit.com/r/ImagineAiArt/*
-*://*.reddit.com/r/ai_disney_posters/*
-*://*.reddit.com/r/aislop/*
+/reddit\.com\/.*(The_AI_Library|ImagineAiArt|ai_disney_posters|aislop)/
 
 # YouTube
 *://*.youtube.com/watch?v=3uJhslBBAL8
