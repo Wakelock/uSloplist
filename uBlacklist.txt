@@ -21,6 +21,7 @@ homepage: https://github.com/Wakelock/uSloplist
 @*://*.flathub.org/*
 @*://*.fosslinux.com/*
 @*://*.imgflip.com/*
+@*://*.msn.com/*
 @*://*.pixiv.net/*
 @*://*.playstation.com/*
 @*://*.tiktok.com/*
@@ -454,7 +455,6 @@ $category = "images" & host = "brcc.church"
 *://*.roboticcontent.com/*
 *://*.moonlightchai.com/*
 *://*.depositphotos.com/*
-*://*.msn.com/*
 *://*.cloud.microsoft/*
 *://*.copilot.com/*
 *://*.penntech-it.com/*
@@ -1520,3 +1520,12 @@ $category = "images" & host = "worldeventsandthebible.com"
 *://*.momsshirt.com/*
 *://*.seechangehappen.co.uk/*
 *://*.hubcomputers.co.uk/*
+*://*.hsinet.org/*
+*://*.microslop.systems/*
+*://*.ifrogtees.com/*
+*://*.jerryshannover.de/*
+*://*.gamesmartz.com/*
+*://*.joingy.com/*
+*://*.salon.com/*
+*://*.jeffbullas.com/*
+*://*.nvidia.com/*
