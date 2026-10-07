@@ -35,6 +35,7 @@ https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist.
 > - Stream stolen music altered by AI beyond comprehension.
 > - Publish baseless and likely-slop articles from an unknown writer.
 > - Make tutorials on how to flood the internet with slop.
+> - Shill AI as if it were impossible to succeed without it.
 
 2. Does it block political content?
 > *Mostly not*. Political sites are less likely to be blocked, in order to prevent censorship and bias. The only such websites intended to be blocked must be obscure, baseless and almost if not completely AI-generated, whose images show up on search results.
