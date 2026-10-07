@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist.
 
 1. Which websites does it block?
 > Sites which:
-> - Host a lot of AI slop, especially from companies who invest in AI (e.g., Adobe, Nvidia, Pinterest, etc).
+> - Host a lot of AI slop, especially from companies who invest in AI (e.g., Adobe, Pinterest, etc).
 > - - Credible or popular websites are whitelisted, but specific parts of them could be filtered if they contain too much slop and little to no educational value.
 > - Stream stolen music altered by AI beyond comprehension.
 > - Publish baseless and likely-slop articles from an unknown writer.
