@@ -4,10 +4,10 @@ Anti-AI ruleset for [uBlacklist](https://github.com/iorate/ublacklist) and uBloc
 ## Features
 - Blacklist
 - - Blocks more than 1.5K websites and images
-- - Wildcards detect new AI websites automatically
-- Whitelist
+- - [Wildcards](https://github.com/Wakelock/uSloplist/blob/7bf492bd600c10d45b8945439f29ab3766d39844/uBlacklist.txt#L32) detect new AI websites automatically
+- [Whitelist](https://github.com/Wakelock/uSloplist/blob/7bf492bd600c10d45b8945439f29ab3766d39844/uBlacklist.txt#L12)
 - - Prevents itself from blocking important websites
-- - Priority list
+- - [Priority list](https://github.com/Wakelock/uSloplist/blob/7bf492bd600c10d45b8945439f29ab3766d39844/uBlacklist.txt#L5)
 - - - Highlights AI-free websites (uBlacklist only)
 - Free speech
 - - Users are encouraged to share feedback on GitHub
@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist.
 > - Make tutorials on how to flood the internet with slop.
 > - Shill AI as if it were impossible to succeed without it.
 
-2. Does it block political content?
+2. Does uSloplist block political content?
 > *Mostly not*. Political sites are less likely to be blocked, in order to prevent censorship and bias. The only such websites intended to be blocked must be obscure, baseless and almost if not completely AI-generated, whose images show up on search results.
 3. Which are most likely false positives?
 > We try our best to avoid false positives. The most likely false positives would be from photos, which overuse: Focus blur; Oilify; Sharpen, or other filters, and art, which we deem: "soulless"; "disproportionate", or "excessively smooth and colorful" (e.g., [Corporate Memphis](https://en.wikipedia.org/wiki/Corporate_Memphis)), or from music, which we deem "unnatural" due to "overuse of audio trimming and [AutoTune](https://en.wikipedia.org/wiki/Autotune)".
