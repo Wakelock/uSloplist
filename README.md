@@ -2,6 +2,7 @@
 Anti-AI ruleset for [uBlacklist](https://github.com/iorate/ublacklist) and uBlock Origin. Tired of uncanny "photos", stolen muddled "art", or unnatural AI-generated "music"? uSloplist aims to filter out all kinds of slop from search results, in order to bring back the good 'ol worldwide web.
 
 ## Features
+
 - Blacklist
 - - Blocks more than 1.6K websites and images
 - - Wildcards detect new AI websites automatically
@@ -19,6 +20,9 @@ https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist.
 ```
 
 ### uBlacklist
+> [!NOTE]
+> This ruleset is meant to be used along with [Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) for optimal results.
+
 1. Open addon options
 2. Scroll down to "Subscription", and then click "Add a subscription".
 
