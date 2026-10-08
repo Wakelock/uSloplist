@@ -74,13 +74,9 @@ host *= "gpt"
 *://*.bible.art/*
 *://*.biblepics.co/*
 *://*.muddledramblings.com/*
-*://*.nightcafe.studio/*
 *://*.1ai.net/*
 *://*.coretocloud.co.uk/*
 *://*.paloaltonetworks.com/*
-*://*.aimojo.io/*
-*://*.story.com/*
-*://*.suno.com/*
 *://*.thegermanshepherder.com/*
 *://*.petsforkids.net/*
 *://*.aplaceforanimals.com/*
@@ -115,7 +111,6 @@ host *= "gpt"
 *://*.kitty.zone/*
 *://*.dream-dictionary.com/*
 *://*.sinaunangpanahon.com/*
-*://*.stablediffusionweb.com/*
 *://*.freepik.com/*
 *://*.abacusnews.com/*
 *://*.poweredtemplate.com/*
@@ -137,7 +132,6 @@ host *= "gpt"
 *://*.weebly.com/*
 *://*.chinamarketadvisor.com/*
 *://*.learningmole.com/*
-*://*.fotor.com/*
 *://*.wallhere.com/*
 *://*.sheepanddragons.com/*
 *://*.utpaqp.edu.pe/*
@@ -153,12 +147,9 @@ host *= "gpt"
 *://*.dailydosedocumentary.com/*
 *://*.meowa.com/*
 *://*.wallpapercave.com/*
-*://*.pixlr.com/*
 *://*.kittl.com/*
 *://*.cholonautas.edu.pe/*
 *://*.marktechpost.com/*
-*://*.imagine.art/*
-*://*.craiyon.com/*
 *://*.nichepursuits.com/*
 *://*.weeklygeek.net/*
 *://*.idcrawl.com/*
@@ -185,7 +176,6 @@ host *= "gpt"
 *://*.pinterest.com.mx/*
 *://*.edenai.co/*
 *://*.magai.co/*
-*://*.piclumen.com/*
 *://*.worksheetshq.com/*
 *://*.memescatolicos.org/*
 *://*.autocad123.vn/*
@@ -195,15 +185,11 @@ host *= "gpt"
 *://*.apkpure.com/*
 *://*.badzffvczsdgfh3.blogspot.com/*
 *://*.gorradesign.com/*
-*://*.picassoia.com/*
 *://*.theaisurf.com/*
-*://*.seapik.com/*
 *://*.siliconinvestor.com/*
 *://*.beautyfulaigirls.blogspot.com/*
 *://*.nationalgeographic.com/*
 *://*.prismnews.com/*
-*://*.tensor.art/*
-*://*.pixai.art/*
 *://*.deviantart.com/*
 *://*.comicai.com/*
 *://*.dreamfaceapp.com/*
@@ -219,7 +205,6 @@ host *= "gpt"
 *://*.kshare.in/*
 *://*.rawpixel.com/*
 *://*.creativefabrica.com/*
-*://*.lexica.art/*
 *://*.alamy.com/*
 *://*.narodnatribuna.info/*
 *://*.top10sense.com/*
@@ -243,7 +228,6 @@ host *= "gpt"
 *://*.pinterest.es/*
 *://*.wallpaperbetter.com/*
 *://*.displate.com/*
-*://*.stockcake.com/*
 *://*.hdwallpapers.in/*
 *://*.shutterstock.com/*
 *://*.4kwallpapers.com/*
@@ -500,7 +484,6 @@ $category = "images" & host = "brcc.church"
 *://*.gettyimages.dk/*
 *://*.babynamesinfo.com/*
 *://*.habitmentors.com/*
-*://*.talkie-ai.com/*
 *://*.lifenac.org/*
 *://*.unrudodespertar.tv/*
 *://*.theshoemakerreport.com/*
