@@ -14,6 +14,7 @@ homepage: https://github.com/Wakelock/uSloplist
 @*://*.bandcamp.com/*
 @*://*.bbc.co.uk/*
 @*://*.bbc.com/*
+@*://*.cnn.com/*
 @*://*.douyin.com/*
 @*://*.etsy.com/*
 @*://*.fiverr.com/*
@@ -31,7 +32,7 @@ homepage: https://github.com/Wakelock/uSloplist
 
 # Wildcards
 *://*.ai/*
-title =~ /(ai|ia|ki|ии)( |-|_)(anime|art|bild|code|coding|disney|gener|guide|husband|image|tool|manga|meme|music|photo|picture|porn|video|waifu|wife|изображени|сервисов)/i
+title =~ /(ai|ia|ki|ии)( |-|_)(anime|art|bild|code|coding|disney|gener|girl|guide|görüntü|husband|image|tool|manga|meme|music|photo|picture|porn|video|waifu|wife|изображени|сервисов)/i
 title =~ /(anthropic|artificial intelligence|brainrot|brain( |-|_)rot|chatbot|civitai|comfyui|chat( |-|_)bot|genai|generative( |-|_)ai|gpt|huggingface|hugging( |-|_)face|inteligencia( |-|_)artificial|künstliche( |-|_)intelligenz|midjourney|openai|sora( |-|_)(2|ai|video)|stable( |-|_)diff)/i
 host *= "gpt"
 
@@ -1528,3 +1529,76 @@ $category = "images" & host = "worldeventsandthebible.com"
 *://*.ai-bot.cn/*
 *://*.allaiwebsite.com/*
 *://*.aitwin.ninja/*
+
+*://*.ghibligen.org/*
+*://*.fluxai.pro/*
+*://*.chatbene.com/*
+*://*.ghibliaiimage.net/*
+*://*.iseoai.com/*
+*://*.hamariweb.com/*
+*://*.truevalueinfosoft.com/*
+*://*.sora2hub.org/*
+*://*.ghibli-ai.io/*
+*://*.couriermail.com.au/*
+*://*.halotool.com/*
+*://*.d8uzp82hd82jh.cloudfront.net/*
+*://*.aistage.net/*
+*://*.eliteai.tools/*
+*://*.ffm-waldstadion.de/*
+*://*.kinetiqbuzz.com/*
+*://*.outrightsystems.org/*
+*://*.navgood.com/*
+*://*.financialexpress.com/*
+*://*.thegenzo.com/*
+*://*.buzzsuite.co/*
+*://*.indiatimes.com/*
+*://*.aicartoongenerator.net/*
+*://*.themohammadsaim.blogspot.com/*
+*://*.tikareview.com/*
+*://*.softorbits.net/*
+*://*.ghibliaimaker.com/*
+*://*.rightfirms.co/*
+*://*.mixhubai.com/*
+*://*.filuxy.com/*
+*://*.ai-ghibli-style.org/*
+*://*.digitalplannet.in/*
+*://*.dawn.com/*
+*://*.bazaart.com/*
+*://*.rtmcreator.com/*
+*://*.abenteuer-miniriff.com/*
+*://*.cooljobinfo.com/*
+*://*.nextaitool.com/*
+*://*.gitee.com/*
+*://*.tenorshare.com/*
+*://*.deeparteffects.com/*
+*://*.icartoon.app/*
+*://*.technicalhelps.in/*
+*://*.ghibligen.net/*
+*://*.vietnam.vn/*
+*://*.photostylelab.com/*
+*://*.lifestyleasia.com/*
+*://*.aitoolly.com/*
+*://*.aighibli.app/*
+*://*.inspirationde.com/*
+*://*.hudareview.com/*
+*://*.bhavyakarania1831.blogspot.com/*
+*://*.knowyourmeme.com/editorials/collections/26-more-classic-memes-reimagined-as-studio-ghibli-art
+*://*.livemint.com/*
+*://*.tryocmaker.com/*
+*://*.mycvcreator.com/*
+*://*.dazzlerr.com/*
+*://*.apatero.com/*
+*://*.igniva-review.com/*
+*://*.vicsee.com/*
+*://*.tatlerasia.com/*
+*://*.beartai.com/*
+*://*.teknokrat.ac.id/*
+*://*.sahibedits.com/*
+*://*.movieswithsr.blogspot.com/*
+*://*.ocmakerai.org/*
+*://*.storyintovideo.com/*
+*://*.ghibliimage.com/*
+*://*.bulletinshub.com/*
+*://*.animatemypic.com/*
+*://*.beautyplus.com/*
+*://*.doel.web.id/*
