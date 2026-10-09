@@ -21,7 +21,6 @@ homepage: https://github.com/Wakelock/uSloplist
 @*://*.fiverr.com/*
 @*://*.fosslinux.com/*
 @*://*.imgflip.com/*
-@*://*.pixiv.net/*
 @*://*.playstation.com/*
 @*://*.tiktok.com/*
 @*://*.tumblr.com/*
@@ -41,7 +40,7 @@ host *= "gpt"
 /reddit\.com\/.*(The_AI_Library|ImagineAiArt|ai_disney_posters|aislop)/
 
 # YouTube
-/youtube\.com\/watch\?v=(3uJhslBBAL8|Lp5x5WyALe0|W4eUw8QK-h0|sP7YIREndbg|L_HC-D6HZ9M|V_L4CDFtqKs|tU0Q3FC4WAk|0pmVYbwvKIE|-2q1dBoDRTg|4Eg_UgpAw_M|R3hmAO_KWrc|nkmvUJ5Xaxc|fJs_VEMfeNE|3UDdX_oiutE|UDmQrgzBysE|LnaCd7suX3Q|Mvn7KBhmVWc|J09FghNHXF0|nlW03RyK2vI|0bEoN3j_N_o|49kVhliV3Nw|Z0rcfexqQt4|uqcoTwPUSn4)/
+/youtube\.com\/watch\?v=(3uJhslBBAL8|Lp5x5WyALe0|W4eUw8QK-h0|sP7YIREndbg|L_HC-D6HZ9M|V_L4CDFtqKs|tU0Q3FC4WAk|0pmVYbwvKIE|-2q1dBoDRTg|4Eg_UgpAw_M|R3hmAO_KWrc|nkmvUJ5Xaxc|fJs_VEMfeNE|3UDdX_oiutE|UDmQrgzBysE|LnaCd7suX3Q|Mvn7KBhmVWc|J09FghNHXF0|nlW03RyK2vI|0bEoN3j_N_o|49kVhliV3Nw|Z0rcfexqQt4|uqcoTwPUSn4|Yo0VJ4q38oY)/
 
 # Images
 $category = "images" & (host = "brcc.church"|host = "worldeventsandthebible.com"|host = "www.actualno.com")
@@ -1594,3 +1593,9 @@ $category = "images" & (host = "brcc.church"|host = "worldeventsandthebible.com"
 *://*.thehipchick.com/*
 *://*.visawizer.com.au/*
 *://*.mediamister.com/*
+*://*.deve-gallery.com/*
+*://*.pawoo.net/*
+*://*.livejournal.com/*
+*://*.boredpanda.com/*
+*://*.sugarthegoldenretriever.com/*
+*://*.facebook.com/koshurfunnyai/*
