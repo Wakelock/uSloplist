@@ -31,16 +31,19 @@ homepage: https://github.com/Wakelock/uSloplist
 
 # Wildcards
 *://*.ai/*
-title =~ /(ai|ia|ki|ии)( |-|_)(anime|art|bild|code|coding|disney|gener|girl|guide|görüntü|husband|image|tool|manga|meme|music|photo|picture|porn|studio|video|waifu|wife|изображени|сервисов)/i
-title =~ /(anthropic|artificial intelligence|brainrot|brain( |-|_)rot|chatbot|civitai|comfyui|chat( |-|_)bot|genai|generative( |-|_)ai|gpt|huggingface|hugging( |-|_)face|inteligencia( |-|_)artificial|künstliche( |-|_)intelligenz|midjourney|openai|sora( |-|_)(2|ai|video)|stable( |-|_)diff)/i
+title =~ /(ai|ia|ki|ии)( |-|_)(anime|art|bild|code|coding|disney|gener|girl|guide|görüntü|husband|image|tool|manga|meme|music|paint|photo|picture|porn|studio|video|waifu|wife|изображени|сервисов)/i
+title =~ /(#AI |anthropic|artificial intelligence|brainrot|brain( |-|_)rot|chatbot|civitai|comfyui|chat( |-|_)bot|genai|generative( |-|_)ai|google( |-|_)gemini|gpt|huggingface|hugging( |-|_)face|inteligencia( |-|_)artificial|künstliche( |-|_)intelligenz|midjourney|openai|sora( |-|_)(2|ai|video)|stable( |-|_)diff)/i
 host *= "gpt"
 /-ai\./i
+
+# Pixiv
+/(kemono\.(cr|su|party)\/fanbox\/user\/|pixiv\.net\/users\/)(104572727|91875802|31233596|92571194|102716851|119355864|9029506|17956455|96042023|103223541|60497488|86942431|211326)/
 
 # Reddit
 /reddit\.com\/.*(The_AI_Library|ImagineAiArt|ai_disney_posters|aislop)/
 
 # YouTube
-/youtube\.com\/watch\?v=(3uJhslBBAL8|Lp5x5WyALe0|W4eUw8QK-h0|sP7YIREndbg|L_HC-D6HZ9M|V_L4CDFtqKs|tU0Q3FC4WAk|0pmVYbwvKIE|-2q1dBoDRTg|4Eg_UgpAw_M|R3hmAO_KWrc|nkmvUJ5Xaxc|fJs_VEMfeNE|3UDdX_oiutE|UDmQrgzBysE|LnaCd7suX3Q|Mvn7KBhmVWc|J09FghNHXF0|nlW03RyK2vI|0bEoN3j_N_o|49kVhliV3Nw|Z0rcfexqQt4|uqcoTwPUSn4|Yo0VJ4q38oY)/
+/youtube\.com\/watch\?v=(3uJhslBBAL8|Lp5x5WyALe0|W4eUw8QK-h0|sP7YIREndbg|L_HC-D6HZ9M|V_L4CDFtqKs|tU0Q3FC4WAk|0pmVYbwvKIE|-2q1dBoDRTg|4Eg_UgpAw_M|R3hmAO_KWrc|nkmvUJ5Xaxc|fJs_VEMfeNE|3UDdX_oiutE|UDmQrgzBysE|LnaCd7suX3Q|Mvn7KBhmVWc|J09FghNHXF0|nlW03RyK2vI|0bEoN3j_N_o|49kVhliV3Nw|Z0rcfexqQt4|uqcoTwPUSn4|Yo0VJ4q38oY|KUyRq7szZsM)/
 
 # Images
 $category = "images" & (host = "brcc.church"|host = "worldeventsandthebible.com"|host = "www.actualno.com")
@@ -1599,3 +1602,17 @@ $category = "images" & (host = "brcc.church"|host = "worldeventsandthebible.com"
 *://*.boredpanda.com/*
 *://*.sugarthegoldenretriever.com/*
 *://*.facebook.com/koshurfunnyai/*
+*://*.ai-lifehackplus.com/*
+*://*.pixivai.com/*
+*://*.facebook.com/thecolebuilds/*
+*://*.pexels.com/*
+*://*.rd.com/*
+*://*.all-creatures.org/cac/cac-community-cats-2024.html
+*://*.homesight.org/*
+*://*.xtc.life/*
+*://*.heritage-village.org/*
+*://*.centre4activeliving.ca/*
+*://*.thegatheringplacecollective.com/*
+*://*.enlightenedzen.com/*
+*://*.dreamdecoder.me/*
+*://*.mettavitahealth.com/*
