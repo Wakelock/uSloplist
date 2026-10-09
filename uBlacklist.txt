@@ -5,8 +5,8 @@ homepage: https://github.com/Wakelock/uSloplist
 # Priority list
 @1*://*.cara.app/* # Prohibits AI
 @1*://*.flathub.org/* # Moderates AI
-@1*://*.magma.com/* # Prohibits AI, permits AI-assisted
-@1*://*.newgrounds.com/art/* # Prohibits AI, permits AI-assisted
+@1*://*.magma.com/* # Moderates AI
+@1*://*.newgrounds.com/art/* # Moderates AI
 @1*://*.reddit.com/r/Art/* # Prohibits AI
 @1*://*.sheezy.art/* # Prohibits AI
 
@@ -28,43 +28,25 @@ homepage: https://github.com/Wakelock/uSloplist
 
 # GPTs
 *://gemini.google.com/*
+*://aistudio.google.com/*
 
 # Wildcards
 *://*.ai/*
-title =~ /(ai|ia|ki|ии)( |-|_)(anime|art|bild|code|coding|disney|gener|girl|guide|görüntü|husband|image|tool|manga|meme|music|photo|picture|porn|video|waifu|wife|изображени|сервисов)/i
+title =~ /(ai|ia|ki|ии)( |-|_)(anime|art|bild|code|coding|disney|gener|girl|guide|görüntü|husband|image|tool|manga|meme|music|photo|picture|porn|studio|video|waifu|wife|изображени|сервисов)/i
 title =~ /(anthropic|artificial intelligence|brainrot|brain( |-|_)rot|chatbot|civitai|comfyui|chat( |-|_)bot|genai|generative( |-|_)ai|gpt|huggingface|hugging( |-|_)face|inteligencia( |-|_)artificial|künstliche( |-|_)intelligenz|midjourney|openai|sora( |-|_)(2|ai|video)|stable( |-|_)diff)/i
 host *= "gpt"
+/-ai\./i
 
 # Reddit
 /reddit\.com\/.*(The_AI_Library|ImagineAiArt|ai_disney_posters|aislop)/
 
 # YouTube
-*://*.youtube.com/watch?v=3uJhslBBAL8
-*://*.youtube.com/watch?v=Lp5x5WyALe0
-*://*.youtube.com/watch?v=W4eUw8QK-h0
-*://*.youtube.com/watch?v=sP7YIREndbg
-*://*.youtube.com/watch?v=L_HC-D6HZ9M
-*://*.youtube.com/watch?v=V_L4CDFtqKs
-*://*.youtube.com/watch?v=tU0Q3FC4WAk
-*://*.youtube.com/watch?v=0pmVYbwvKIE
-*://*.youtube.com/watch?v=-2q1dBoDRTg
-*://*.youtube.com/watch?v=4Eg_UgpAw_M
-*://*.youtube.com/watch?v=R3hmAO_KWrc
-*://*.youtube.com/watch?v=nkmvUJ5Xaxc
-*://*.youtube.com/watch?v=fJs_VEMfeNE
-*://*.youtube.com/watch?v=3UDdX_oiutE
-*://*.youtube.com/watch?v=UDmQrgzBysE
-*://*.youtube.com/watch?v=LnaCd7suX3Q
-*://*.youtube.com/@Ozzyfox-musicforkids
-*://*.youtube.com/watch?v=Mvn7KBhmVWc
-*://*.youtube.com/watch?v=J09FghNHXF0
-*://*.youtube.com/watch?v=nlW03RyK2vI
-*://*.youtube.com/watch?v=0bEoN3j_N_o
-*://*.youtube.com/watch?v=49kVhliV3Nw
-*://*.youtube.com/watch?v=Z0rcfexqQt4
-*://*.youtube.com/watch?v=uqcoTwPUSn4
+/youtube\.com\/watch\?v=(3uJhslBBAL8|Lp5x5WyALe0|W4eUw8QK-h0|sP7YIREndbg|L_HC-D6HZ9M|V_L4CDFtqKs|tU0Q3FC4WAk|0pmVYbwvKIE|-2q1dBoDRTg|4Eg_UgpAw_M|R3hmAO_KWrc|nkmvUJ5Xaxc|fJs_VEMfeNE|3UDdX_oiutE|UDmQrgzBysE|LnaCd7suX3Q|Mvn7KBhmVWc|J09FghNHXF0|nlW03RyK2vI|0bEoN3j_N_o|49kVhliV3Nw|Z0rcfexqQt4|uqcoTwPUSn4)/
 
 # Images
+$category = "images" & (host = "brcc.church"|host = "worldeventsandthebible.com"|host = "www.actualno.com")
+
+# Websites
 *://*.booboone.com/*
 *://*.facemweb.com/*
 *://*.icowebsolutions.com/*
@@ -272,7 +254,6 @@ host *= "gpt"
 *://*.jesus-our-blessed-hope.com/*
 *://*.miracles-of-jesus.com/*
 *://*.christian.net/*
-$category = "images" & host = "brcc.church"
 *://*.answeredfaith.com/*
 *://*.comeandreason.com/*
 *://*.manofmany.com/*
@@ -1303,7 +1284,6 @@ $category = "images" & host = "brcc.church"
 *://*.ilikeimg.com/*
 *://*.flux1.so/*
 *://*.vcgamers.com/*
-*://*.tools-ai.online/*
 *://*.slideserve.com/*
 *://*.epicvr.pl/*
 *://*.howtogeek.com/*
@@ -1351,7 +1331,6 @@ $category = "images" & host = "brcc.church"
 *://*.drdavidsack.com/*
 *://*.rankmyai.com/*
 *://*.mesmer.tools/*
-*://aistudio.google.com/*
 *://*.brunch.co.kr/*
 *://*.richlyai.com/*
 *://*.businessinsider.com/*
@@ -1454,7 +1433,6 @@ $category = "images" & host = "brcc.church"
 *://*.jimbeamsbar.de/*
 *://*.dreamomen.com/*
 *://*.nanitalk.com/*
-$category = "images" & host = "worldeventsandthebible.com"
 *://*.torry.io/*
 *://*.tensorhub.art/*
 *://*.vibegrounds.com/*
@@ -1519,7 +1497,6 @@ $category = "images" & host = "worldeventsandthebible.com"
 *://*.hamariweb.com/*
 *://*.truevalueinfosoft.com/*
 *://*.sora2hub.org/*
-*://*.ghibli-ai.io/*
 *://*.couriermail.com.au/*
 *://*.halotool.com/*
 *://*.d8uzp82hd82jh.cloudfront.net/*
@@ -1598,3 +1575,22 @@ $category = "images" & host = "worldeventsandthebible.com"
 *://*.cw33.com/*
 *://*.msn.com/*/news/other/my-dogs-do-not-trust-her-yet/vi-AA28evPP
 *://*.pet-net.net/*
+*://*.tgland.ru/*
+*://*.ubuntufree.com/*
+*://*.petmedaily.com/*
+*://*.hubpages.com/*
+*://*.epicdogstales.com/*
+*://*.goodrx.com/*
+*://*.puppytrainpro.com/*
+*://*.namescluster.com/*
+*://*.farmanimalreport.com/*
+*://*.wallsnapy.com/*
+*://*.snopes.com/*
+*://*.birdhelpful.com/*
+*://*.wildbirdlady.com/*
+*://*.pholder.com/*
+*://*.a-dinosaur-a-day.com/*
+*://*.artpal.com/*
+*://*.thehipchick.com/*
+*://*.visawizer.com.au/*
+*://*.mediamister.com/*
