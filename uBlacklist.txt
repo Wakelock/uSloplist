@@ -34,7 +34,7 @@ homepage: https://github.com/Wakelock/uSloplist
 # Wildcards
 *://*.ai/*
 title =~ /(ai|ia|ki|ии)( |-|_)(anime|art|bild|chat|code|coding|disney|gener|girl|guide|görüntü|husband|image|tool|manga|meme|music|paint|photo|picture|porn|studio|video|waifu|wife|youtube|изображени|сервисов)/i
-title =~ /(#AI |anthropic|artificial intelligence|brainrot|brain( |-|_)rot|chatbot|civitai|comfyui|chat( |-|_)bot|dall-e|deepmind|face( |-|_)less|faceless|genai|generative( |-|_)ai|(github|microsoft)( |-|_)copilot|google( |-|_)gemini|gpt|huggingface|hugging( |-|_)face|inteligencia( |-|_)artificial|künstliche( |-|_)intelligenz|midjourney|openai|sora( |-|_)(2|ai|video)|stable( |-|_)diff)/i
+title =~ /(#AI |anthropic|artificial intelligence|brainrot|brain( |-|_)rot|chatbot|civitai|comfyui|chat( |-|_)bot|dall-e|deepmind|face( |-|_)less|faceless|genai|generative( |-|_)ai|(github|microsoft)( |-|_)copilot|google( |-|_)gemini|gpt|huggingface|hugging( |-|_)face|(image|video)( |-|_)gen|inteligencia( |-|_)artificial|künstliche( |-|_)intelligenz|midjourney|openai|sora( |-|_)(2|ai|video)|stable( |-|_)diff)/i
 host *= "gpt"
 /-ai\./i
 /ai\-\.*/
