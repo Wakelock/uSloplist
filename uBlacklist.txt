@@ -35,7 +35,7 @@ title *= "google"i & title *= "lyria"i
 
 # Wildcards
 *://*.ai/*
-title =~ /(ai|ia|ki|ии)( |-|_)(anime|art|bild|chat|code|coding|disney|driven|gener|girl|guide|görüntü|husband|image|tool|manga|meme|music|paint|photo|picture|porn|studio|video|waifu|wife|youtube|видео|изображени|сервисов)/i
+title =~ /(ai|ia|ki|ии)( |-|_)(anime|art|bild|chat|code|coding|disney|driven|gener|girl|guide|görüntü|husband|image|tool|manga|meme|music|paint|photo|picture|porn|studio|video|waifu|wife|youtube|виде(а|о)|изображени|сервисов)/i
 title =~ /(#AI |anthropic|artificial intelligence|brainrot|brain( |-|_)rot|chatbot|civitai|comfyui|chat( |-|_)bot|dall-e|deepmind|face( |-|_)less|faceless|genai|generative( |-|_)ai|(github|microsoft)( |-|_)copilot|google( |-|_)gemini|gpt|huggingface|hugging( |-|_)face|(image|video)( |-|_)gen|inteligencia( |-|_)artificial|künstliche( |-|_)intelligenz|midjourney|openai|sora( |-|_)(2|ai|video)|stable( |-|_)diff)/i
 host *= "gpt"
 title *= "—" & !$category = "web" & !title *= "news"i & !title =~ /em( |-)dash/i
@@ -52,7 +52,8 @@ title *= "—" & !$category = "web" & !title *= "news"i & !title =~ /em( |-)dash
 /reddit\.com\/r\/(The_AI_Library|ImagineAiArt|ai_disney_posters|aislop|AI_stories|aiprojects|artificial|AI_News|AI_technology|LoveForAIArt|aipixelart|DomoAI|ai_era_latestnews)/
 
 # YouTube
-/(invidious\.nerdvpn\.de|youtube\.com)\/watch\?v=(3uJhslBBAL8|Lp5x5WyALe0|W4eUw8QK-h0|sP7YIREndbg|L_HC-D6HZ9M|V_L4CDFtqKs|tU0Q3FC4WAk|0pmVYbwvKIE|-2q1dBoDRTg|4Eg_UgpAw_M|R3hmAO_KWrc|nkmvUJ5Xaxc|fJs_VEMfeNE|3UDdX_oiutE|UDmQrgzBysE|LnaCd7suX3Q|Mvn7KBhmVWc|J09FghNHXF0|nlW03RyK2vI|0bEoN3j_N_o|49kVhliV3Nw|Z0rcfexqQt4|uqcoTwPUSn4|Yo0VJ4q38oY|KUyRq7szZsM|Z299IGHaBAc|zhVDk8Y55pA|OmA98YIrXus|4LryAnzFLMw|BRG51nG9TK4|OINK1lURm4w|XX3JzfYo1Rk|vQqjvkKrCko|pXPu3hAR2zE|Pe9hQ--4BBI|zEAc09ITMN0|Fu8NE9LU3ao|5vnLnYT-y2I|L9xP3Y8qWyg|PTRtF_Hv9J8|s0buFrq1sug|SNZu_M4Q-xU|N31YS_odLV4|WSSo5nAyma8|i6ZkXkWMmL4|QpSkfxxuVkI|bUhm0N4l544)/
+/(invidious\.nerdvpn\.de|youtube\.com)\/watch\?v=(3uJhslBBAL8|Lp5x5WyALe0|W4eUw8QK-h0|sP7YIREndbg|L_HC-D6HZ9M|V_L4CDFtqKs|tU0Q3FC4WAk|0pmVYbwvKIE|-2q1dBoDRTg|4Eg_UgpAw_M|R3hmAO_KWrc|nkmvUJ5Xaxc|fJs_VEMfeNE|3UDdX_oiutE|UDmQrgzBysE|LnaCd7suX3Q|Mvn7KBhmVWc|J09FghNHXF0|nlW03RyK2vI|0bEoN3j_N_o|49kVhliV3Nw|Z0rcfexqQt4|uqcoTwPUSn4|Yo0VJ4q38oY|KUyRq7szZsM|Z299IGHaBAc|zhVDk8Y55pA|OmA98YIrXus|4LryAnzFLMw|BRG51nG9TK4|OINK1lURm4w|XX3JzfYo1Rk|vQqjvkKrCko|pXPu3hAR2zE|Pe9hQ--4BBI|zEAc09ITMN0|Fu8NE9LU3ao|5vnLnYT-y2I|L9xP3Y8qWyg|PTRtF_Hv9J8|s0buFrq1sug|SNZu_M4Q-xU|N31YS_odLV4|WSSo5nAyma8|i6ZkXkWMmL4|QpSkfxxuVkI|bUhm0N4l544|QEIuBuDGJIw)/
+*://*.youtube.com/shorts/*
 
 # Images
 $category = "images" & (host = "brcc.church"|host = "worldeventsandthebible.com"|host = "www.actualno.com"|host = "blogs.nvidia.com")
