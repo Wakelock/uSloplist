@@ -30,10 +30,13 @@ homepage: https://github.com/Wakelock/uSloplist
 *://aistudio.google.com/*
 *://*.gemini.google/*
 *://*.deepmind.google/*
+(host = "www.microsoft.com"|host = "explore.microsoft.com") & (title *= "AI"|title *= "Copilot")
+title *= "google"i & title *= "lyria"i
+*://*.ai.google.dev/*
 
 # Wildcards
 *://*.ai/*
-title =~ /(ai|ia|ki|ии)( |-|_)(anime|art|bild|chat|code|coding|disney|gener|girl|guide|görüntü|husband|image|tool|manga|meme|music|paint|photo|picture|porn|studio|video|waifu|wife|youtube|изображени|сервисов)/i
+title =~ /(ai|ia|ki|ии)( |-|_)(anime|art|bild|chat|code|coding|disney|gener|girl|guide|görüntü|husband|image|tool|manga|meme|music|paint|photo|picture|porn|studio|video|waifu|wife|youtube|видео|изображени|сервисов)/i
 title =~ /(#AI |anthropic|artificial intelligence|brainrot|brain( |-|_)rot|chatbot|civitai|comfyui|chat( |-|_)bot|dall-e|deepmind|face( |-|_)less|faceless|genai|generative( |-|_)ai|(github|microsoft)( |-|_)copilot|google( |-|_)gemini|gpt|huggingface|hugging( |-|_)face|(image|video)( |-|_)gen|inteligencia( |-|_)artificial|künstliche( |-|_)intelligenz|midjourney|openai|sora( |-|_)(2|ai|video)|stable( |-|_)diff)/i
 host *= "gpt"
 /-ai\./i
@@ -43,13 +46,13 @@ host *= "gpt"
 /bilibili\.tv\/.*video\/(4800799524920320|4801177479420928|4800615335991808|4800250062707712|4800433035024896|4800664549071360|4801072725236736|4801197319527424|4801203788192768|4800996663368704|4801191625235456|4801170876013056|4800862110882304|4801090927860736)/
 
 # Pixiv
-/(kemono\.(cr|su|party)\/fanbox\/user|pixiv\.net\/users)\/(104572727|91875802|31233596|92571194|102716851|119355864|9029506|17956455|96042023|103223541|60497488|86942431|211326|87951468|91621034|24316440|110912955|15991790|4670988|212538|115405078|112546434|121692613|90956109|120578968|91810081|105805418)/
+/(kemono\.(cr|su|party)\/fanbox\/user|pixiv\.net\/users)\/(104572727|91875802|31233596|92571194|102716851|119355864|9029506|17956455|96042023|103223541|60497488|86942431|211326|87951468|91621034|24316440|110912955|15991790|4670988|212538|115405078|112546434|121692613|90956109|120578968|91810081|105805418|100729329|114253442|596499|74228142|110587809)/
 
 # Reddit
-/reddit\.com\/r\/(The_AI_Library|ImagineAiArt|ai_disney_posters|aislop|AI_stories|aiprojects|artificial|AI_News|AI_technology|LoveForAIArt)/
+/reddit\.com\/r\/(The_AI_Library|ImagineAiArt|ai_disney_posters|aislop|AI_stories|aiprojects|artificial|AI_News|AI_technology|LoveForAIArt|aipixelart|DomoAI|ai_era_latestnews)/
 
 # YouTube
-/(invidious\.nerdvpn\.de|youtube\.com)\/watch\?v=(3uJhslBBAL8|Lp5x5WyALe0|W4eUw8QK-h0|sP7YIREndbg|L_HC-D6HZ9M|V_L4CDFtqKs|tU0Q3FC4WAk|0pmVYbwvKIE|-2q1dBoDRTg|4Eg_UgpAw_M|R3hmAO_KWrc|nkmvUJ5Xaxc|fJs_VEMfeNE|3UDdX_oiutE|UDmQrgzBysE|LnaCd7suX3Q|Mvn7KBhmVWc|J09FghNHXF0|nlW03RyK2vI|0bEoN3j_N_o|49kVhliV3Nw|Z0rcfexqQt4|uqcoTwPUSn4|Yo0VJ4q38oY|KUyRq7szZsM|Z299IGHaBAc|zhVDk8Y55pA|OmA98YIrXus|4LryAnzFLMw|BRG51nG9TK4|OINK1lURm4w|XX3JzfYo1Rk|vQqjvkKrCko|pXPu3hAR2zE|Pe9hQ--4BBI|zEAc09ITMN0|Fu8NE9LU3ao|5vnLnYT-y2I|L9xP3Y8qWyg|PTRtF_Hv9J8|s0buFrq1sug|SNZu_M4Q-xU|N31YS_odLV4)/
+/(invidious\.nerdvpn\.de|youtube\.com)\/watch\?v=(3uJhslBBAL8|Lp5x5WyALe0|W4eUw8QK-h0|sP7YIREndbg|L_HC-D6HZ9M|V_L4CDFtqKs|tU0Q3FC4WAk|0pmVYbwvKIE|-2q1dBoDRTg|4Eg_UgpAw_M|R3hmAO_KWrc|nkmvUJ5Xaxc|fJs_VEMfeNE|3UDdX_oiutE|UDmQrgzBysE|LnaCd7suX3Q|Mvn7KBhmVWc|J09FghNHXF0|nlW03RyK2vI|0bEoN3j_N_o|49kVhliV3Nw|Z0rcfexqQt4|uqcoTwPUSn4|Yo0VJ4q38oY|KUyRq7szZsM|Z299IGHaBAc|zhVDk8Y55pA|OmA98YIrXus|4LryAnzFLMw|BRG51nG9TK4|OINK1lURm4w|XX3JzfYo1Rk|vQqjvkKrCko|pXPu3hAR2zE|Pe9hQ--4BBI|zEAc09ITMN0|Fu8NE9LU3ao|5vnLnYT-y2I|L9xP3Y8qWyg|PTRtF_Hv9J8|s0buFrq1sug|SNZu_M4Q-xU|N31YS_odLV4|WSSo5nAyma8|i6ZkXkWMmL4)/
 
 # Images
 $category = "images" & (host = "brcc.church"|host = "worldeventsandthebible.com"|host = "www.actualno.com"|host = "blogs.nvidia.com")
@@ -1617,7 +1620,6 @@ $category = "images" & (host = "brcc.church"|host = "worldeventsandthebible.com"
 *://*.monergism.com/*
 *://*.assist-all.co.jp/*
 *://*.windowsmode.com/*
-(host = "www.microsoft.com"|host = "explore.microsoft.com") & (title *= "AI"|title *= "Copilot")
 *://*.crive.co/*
 *://*.meowchat.im/*
 *://*.ctol.digital/*
@@ -1626,3 +1628,14 @@ $category = "images" & (host = "brcc.church"|host = "worldeventsandthebible.com"
 *://*.boc-group.com/*
 *://*.daleonai.com/*
 *://*.tenten.vn/*
+*://*.algo-mania.com/*
+*://*.haberyazar.com/*
+*://*.biyapay.com/*
+*://*.fahimai.com/*
+*://*.updf.com/*
+*://*.kapwing.com/*
+*://*.open.online/*
+*://*.androidsage.com/*
+*://*.appsumo.com/*
+*://*.flo.health/*
+*://*.familywatch.org/*
