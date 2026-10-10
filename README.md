@@ -59,3 +59,4 @@ https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist.
 - [DuckDuckGo No AI](https://noai.duckduckgo.com/)
 - [HarmonyDagger](https://github.com/jaschadub/harmonydagger)
 - [Miasma](https://github.com/austin-weeks/miasma)
+- [Universal Android Debloater Next Generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/)
