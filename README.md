@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist.
 ```
 
 ### uBlacklist
-> [!NOTE]
+> [!TIP]
 > This ruleset is meant to be used along with [Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) for optimal results.
 
 1. Open addon options
