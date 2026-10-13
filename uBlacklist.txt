@@ -36,7 +36,7 @@ title *= "google"i & title *= "lyria"i
 # Wildcards
 *://*.ai/*
 title =~ /(ai|ia|ki|ии)( |-|_)(anime|art|bild|chat|code|coding|disney|driven|gener|girl|guide|görüntü|husband|image|tool|manga|meme|music|paint|photo|picture|porn|studio|video|waifu|wife|youtube|виде(а|о)|изображени|сервисов)/i
-title =~ /(#ai |a.i.|anthropic|artificial intelligence|brainrot|brain( |-|_)rot|chatbot|civitai|comfyui|chat( |-|_)bot|dall-e|deepmind|face( |-|_)less|faceless|genai|generative( |-|_)ai|(github|microsoft)( |-|_)copilot|google( |-|_)gemini|gpt|huggingface|hugging( |-|_)face|(image|video)( |-|_)gen|inteligencia( |-|_)artificial|künstliche( |-|_)intelligenz|midjourney|openai|sora( |-|_)(2|ai|video)|ozz(yfox|y( |-|_)fox)|stable( |-|_)diff)/i
+title =~ /(#ai |a\.i\.|anthropic|artificial intelligence|brainrot|brain( |-|_)rot|chatbot|civitai|comfyui|chat( |-|_)bot|dall-e|deepmind|face( |-|_)less|faceless|genai|generative( |-|_)ai|(github|microsoft)( |-|_)copilot|google( |-|_)gemini|gpt|huggingface|hugging( |-|_)face|(image|video)( |-|_)gen|inteligencia( |-|_)artificial|künstliche( |-|_)intelligenz|midjourney|openai|sora( |-|_)(2|ai|video)|ozz(yfox|y( |-|_)fox)|stable( |-|_)diff)/i
 host *= "gpt"
 title *= "—" & !$category = "web" & !title =~ /(news|em( |-)dash)/i
 /-ai\.\.*\//
