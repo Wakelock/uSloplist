@@ -15,11 +15,20 @@ Anti-AI ruleset for [uBlacklist](https://github.com/iorate/ublacklist) and uBloc
   - Users are encouraged to share feedback on GitHub
 
 ## Setup
-Copy
+uSloplist default
 ```
 https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist.txt
 ```
+<details>
+<summary>uSloplist Nuclear (not recommended) </summary>
+<br>
+  
+```
+https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist_nuclear.txt
+```
 
+</details>
+  
 ### uBlacklist
 > [!TIP]
 > This ruleset is meant to be used along with [Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) for optimal results.
