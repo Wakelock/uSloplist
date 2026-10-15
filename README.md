@@ -15,6 +15,7 @@ Anti-AI ruleset for [uBlacklist](https://github.com/iorate/ublacklist) and uBloc
   - Users are encouraged to share feedback on GitHub
 
 ## Setup
+### Links
 uSloplist default
 ```
 https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist.txt
