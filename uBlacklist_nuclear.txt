@@ -4,3 +4,5 @@ homepage: https://github.com/Wakelock/uSloplist
 ---
 # Wildcards
 title *= "—" & !$category = "web" & !title =~ /(news|em( |-)dash)/i
+/-ai\.\.*\//
+/ai-\.*/

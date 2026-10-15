@@ -38,14 +38,12 @@ title *= "google"i & title *= "lyria"i
 title =~ /(ai|ia|ki|ии)( |-|_)(anime|art|bild|chat|code|coding|disney|driven|gener|girl|guide|görüntü|husband|image|tool|manga|meme|music|paint|photo|picture|porn|studio|video|waifu|wife|youtube|виде(а|о)|изображени|сервисов)/i
 title =~ /(#ai |a\.i\.|anthropic|artificial intelligence|brainrot|brain( |-|_)rot|chatbot|civitai|comfyui|chat( |-|_)bot|dall-e|deepmind|face( |-|_)less|faceless|genai|generative( |-|_)ai|(github|microsoft)( |-|_)copilot|google( |-|_)gemini|gpt|huggingface|hugging( |-|_)face|(image|video)( |-|_)gen|inteligencia( |-|_)artificial|künstliche( |-|_)intelligenz|midjourney|openai|sora( |-|_)(2|ai|video)|ozz(yfox|y( |-|_)fox)|stable( |-|_)diff)/i
 host *= "gpt"
-/-ai\.\.*\//
-/ai-\.*/
 
 # BiliBili
 /bilibili\.tv\/.*video\/(4800799524920320|4801177479420928|4800615335991808|4800250062707712|4800433035024896|4800664549071360|4801072725236736|4801197319527424|4801203788192768|4800996663368704|4801191625235456|4801170876013056|4800862110882304|4801090927860736|4801191138957824)/
 
 # Pixiv
-/(kemono\.(cr|su|party)\/fanbox\/user|pixiv\.net\/users)\/(104572727|91875802|31233596|92571194|102716851|119355864|9029506|17956455|96042023|103223541|60497488|86942431|211326|87951468|91621034|24316440|110912955|15991790|4670988|212538|115405078|112546434|121692613|90956109|120578968|91810081|105805418|100729329|114253442|596499|74228142|110587809|103351039|37358757|125590506|106509289|143328|115465360|9208390|93019747|105069895|108459777|112736042)/
+/(kemono\.(cr|su|party)\/fanbox\/user|pixiv\.net\/users)\/(104572727|91875802|31233596|92571194|102716851|119355864|9029506|17956455|96042023|103223541|60497488|86942431|211326|87951468|91621034|24316440|110912955|15991790|4670988|212538|115405078|112546434|121692613|90956109|120578968|91810081|105805418|100729329|114253442|596499|74228142|110587809|103351039|37358757|125590506|106509289|143328|115465360|9208390|93019747|105069895|108459777|112736042|114688380)/
 
 # Reddit
 /reddit\.com\/r\/(The_AI_Library|ImagineAiArt|ai_disney_posters|aislop|AI_stories|aiprojects|artificial|AI_News|AI_technology|LoveForAIArt|aipixelart|DomoAI|ai_era_latestnews|aigeneratedcontent)/
@@ -1643,3 +1641,6 @@ $category = "images" & host =~ /(brcc.church|worldeventsandthebible.com|www.actu
 *://*.aitrainingjobs.org/*
 *://*.powtoon.com/*
 *://*.lisaworksheets.com/*
+*://*.komunikatory.org/*
+*://*.trydemotion.com/*
+*://*.andacademy.com/*
