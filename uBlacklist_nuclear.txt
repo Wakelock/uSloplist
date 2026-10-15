@@ -1,0 +1,6 @@
+---
+name: uSloplist Nuclear
+homepage: https://github.com/Wakelock/uSloplist
+---
+# Wildcards
+title *= "—" & !$category = "web" & !title =~ /(news|em( |-)dash)/i
