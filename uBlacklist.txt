@@ -56,8 +56,8 @@ title *= "google"i & title *= "lyria"i
 /youtube\.com\/(@Ozzyfox-musicforkids|@imskaigenerated|@aiSheva|@emmiescalm|@profithubai|@EverydayParkinsonsHelp|@HighQuality-AI|@ChillboyBeats|@HeartEchoaimusic)/
 /(in(v.|v)\.nadeko\.net|youtube\.com)\/channel\/(UCUmv8pEGQInRObxBiB7ZMsg|UCjOECfP68yG0AIhbltv05xw|UCI8iJhE_xIP3okyOL0La_vA)/
 
-# Images
-$category = "images" & host =~ /(brcc.church|worldeventsandthebible.com|www.actualno.com|blogs.nvidia.com|temu.com|substack.com|medium.com)/
+# Images & videos
+!$category = "web" & host =~ /(brcc.church|worldeventsandthebible.com|www.actualno.com|blogs.nvidia.com|temu.com|substack.com|medium.com|tiktok.com|douyin.com)/
 
 # Websites
 *://*.booboone.com/*
