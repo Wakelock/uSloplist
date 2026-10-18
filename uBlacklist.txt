@@ -57,7 +57,7 @@ title *= "google"i & title *= "lyria"i
 /(in(v.|v)\.nadeko\.net|youtube\.com)\/channel\/(UCUmv8pEGQInRObxBiB7ZMsg|UCjOECfP68yG0AIhbltv05xw|UCI8iJhE_xIP3okyOL0La_vA)/
 
 # Images
-$category = "images" & host =~ /(brcc.church|worldeventsandthebible.com|www.actualno.com|blogs.nvidia.com|temu.com|substack.com)/
+$category = "images" & host =~ /(brcc.church|worldeventsandthebible.com|www.actualno.com|blogs.nvidia.com|temu.com|substack.com|medium.com)/
 
 # Websites
 *://*.booboone.com/*
@@ -167,7 +167,6 @@ $category = "images" & host =~ /(brcc.church|worldeventsandthebible.com|www.actu
 *://*.seedance-2-pro.com/*
 *://*.searchenginejournal.com/*
 *://*.vctlo.com/*
-*://*.medium.com/*
 *://*.pinterest.com.mx/*
 *://*.edenai.co/*
 *://*.magai.co/*
