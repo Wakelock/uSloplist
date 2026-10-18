@@ -64,7 +64,7 @@ https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist_
 > - DRM and "copy protection";
 > - blocking VPNs/Tor/proxies; etc.
 >
-> If we're still unsure whether to block a website or not, we could just partially blacklist it partially (e.g., from non-web categories).
+> If we're still unsure whether to block a website or not, we could just partially blacklist it (e.g., from non-web categories).
 5. How to whitelist a blocked site?
 > - Visit a search results page, click the uBlacklist logo at the top right corner.
 > - Mouseover at the blocked website (which should be highlighted), and then click the uBlacklist logo which just appeared.
