@@ -50,7 +50,7 @@ title *= "google"i & title *= "lyria"i
 /(reddit|redlib\.(catsarch|r4fo)|safereddit)\.com\/r\/(The_AI_Library|ImagineAiArt|ai_disney_posters|aislop|AI_stories|aiprojects|artificial|AI_News|AI_technology|LoveForAIArt|aipixelart|DomoAI|ai_era_latestnews|aigeneratedcontent|AIwriting)/
 
 # Steam
-/(steamcommunity|store\.steampowered)\.com\/(agecheck\/app|app)\/(1938090|2933620|3654560|2987350|2967320|1808500|2073850|578080|2456740|4813820|4586220)/
+/(steamdb.info|(steamcommunity|store\.steampowered)\.com)\/(agecheck\/app|app)\/(1938090|2933620|3654560|2987350|2967320|1808500|2073850|578080|2456740|4813820|4586220)/
 
 # Substack
 /(claudiaplusai|vibeproductmarketing|theuapconvergence|stressdefeated|ronald712|brianmccormacklcsw|twdevoe|seancuddihy|phitouc|onelesslane)\.substack\.com/
