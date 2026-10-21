@@ -6,6 +6,7 @@ Anti-AI ruleset for [uBlacklist](https://github.com/iorate/ublacklist) and uBloc
 - Blacklist
   - Blocks more than 1.6K websites and images
   - Wildcards detect new AI websites automatically
+  - Steam blacklist with 1.9k+ apps/games
   - YouTube/Invidious blacklist with thousands of videos
 - Whitelist
   - Prevents itself from blocking important websites
