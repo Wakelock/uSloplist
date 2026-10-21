@@ -6,7 +6,7 @@ Anti-AI ruleset for [uBlacklist](https://github.com/iorate/ublacklist) and uBloc
 - Blacklist
   - Blocks more than 1.6K websites and images
   - Wildcards detect new AI websites automatically
-  - Steam blacklist with 1.9k+ AI slop apps/games
+  - Steam blacklist with 2K+ AI slop apps, listed by curators[^1][^2]
   - YouTube/Invidious blacklist with thousands of videos
 - Whitelist
   - Prevents itself from blocking important websites
@@ -80,3 +80,5 @@ https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist_
 - [HarmonyDagger](https://github.com/jaschadub/harmonydagger)
 - [Miasma](https://github.com/austin-weeks/miasma)
 - [Universal Android Debloater Next Generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/)
+[^1]: https://store.steampowered.com/curator/45255963/
+[^2]: https://store.steampowered.com/curator/45505925-AI-Check-2/
