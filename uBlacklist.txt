@@ -29,7 +29,7 @@ homepage: https://github.com/Wakelock/uSloplist
 # Wildcards
 *://*.ai/*
 title =~ /(ai|ia|ki|ии).(anime|art|assistant|bild|character|chat|code|coding|compan|disney|driven|fruit|gener|girl|guide|görüntü|husband|image|tool|manga|meme|music|paint|platform|photo|picture|porn|studio|video|waifu|wife|youtube|виде(а|о)|изображени|сервисов)/i
-title =~ /( \.ai |#ai |a\.i\.|aiイラスト|anthropic|artificial intelligence|brainrot|brain.rot|chatbot|civitai|comfyui|chat.bot|dall-e|deepmind|face.less|faceless|fruit.love.island|genai|generative.(ai|pr(e|e.)trained)|(github|microsoft).copilot|google.gemini|gpt|huggingface|hugging.face|(image|video).gen|inteligencia.artificial|künstliche.intelligenz|midjourney|openai|plants.v(s|s\.).zombie(s|s:|s™:).replanted|pvz.replanted|sora.(2|ai|video)|ozz(yfox|y.fox)|stable.diff|vibe.cod.)/i
+title =~ /(\.ai |#ai |a\.i\.|aiイラスト|anthropic|artificial intelligence|brainrot|brain.rot|chatbot|civitai|comfyui|chat.bot|dall-e|deepmind|face.less|faceless|fruit.love.island|genai|generative.(ai|pr(e|e.)trained)|(github|microsoft).copilot|google.gemini|gpt|huggingface|hugging.face|(image|video).gen|inteligencia.artificial|künstliche.intelligenz|midjourney|openai|plants.v(s|s\.).zombie(s|s:|s™:).replanted|pvz.replanted|sora.(2|ai|video)|ozz(yfox|y.fox)|stable.diff|vibe.cod.)/i
 host *= "gpt"
 host =~ /((explore|www).microsoft.com)/ & (title *= "AI"|title *= "Copilot")
 title *= "google"i & title *= "lyria"i & !title *= "news"i
