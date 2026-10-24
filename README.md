@@ -11,6 +11,9 @@ Anti-AI ruleset for [uBlacklist](https://github.com/iorate/ublacklist) and uBloc
   - YouTube/Invidious blacklist with thousands of videos
 - Whitelist
   - Prevents itself from blocking important websites
+
+<img width="221" height="130" alt=";⁄-" src="https://github.com/user-attachments/assets/2af5e76e-bc99-4965-905f-41599d8390b8" />
+
   - Priority list
     - Highlights AI-free websites (uBlacklist only)
 - Free speech
