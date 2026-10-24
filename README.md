@@ -4,7 +4,7 @@ Anti-AI ruleset for [uBlacklist](https://github.com/iorate/ublacklist) and uBloc
 ## Features
 
 - Blacklist
-  - Blocks more than 1.6K websites and images
+  - Blocks more than 1.7K websites and images
   - Wildcards detect new AI websites automatically
   - Itch.io blacklist with 6.1K+ AI "users" and all of their slopware
   - Steam blacklist with 2K+ AI slop apps, listed by curators[^1][^2]
@@ -19,11 +19,17 @@ Anti-AI ruleset for [uBlacklist](https://github.com/iorate/ublacklist) and uBloc
 ## Setup
 ### Links
 uSloplist default
+
+> The default and most frequently-updated list variant.
+
 ```
 https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist.txt
 ```
 <details>
 <summary>uSloplist Nuclear (not recommended) </summary>
+
+> Can be used along with the default list. Makes broader assumptions.
+
 <br>
   
 ```
