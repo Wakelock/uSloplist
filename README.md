@@ -85,6 +85,7 @@ https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist_
 > If you believe that the said site has been unjustly blacklisted, feel free to [report an issue](https://github.com/Wakelock/uSloplist/issues/new).
 
 ## See also
+- [AI warning for Steam](https://github.com/seeeeew/aiwarningforsteam)
 - [AIMania](https://github.com/Vxrpenter/AIMania)
 - [DuckDuckGo No AI](https://noai.duckduckgo.com/)
 - [HarmonyDagger](https://github.com/jaschadub/harmonydagger)
