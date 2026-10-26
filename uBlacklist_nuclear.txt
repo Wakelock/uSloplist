@@ -3,7 +3,6 @@ name: uSloplist Nuclear
 homepage: https://github.com/Wakelock/uSloplist
 ---
 # Wildcards
-title *= "—" & !$category = "web" & !title =~ /(news|em( |-)dash)/i
 title ^= "ai "i & title *= "—" & !$category = "web" & !title =~ /(democrat|news|republician)/i
 /-ai\.\.*\//
 /ai-\.*/
