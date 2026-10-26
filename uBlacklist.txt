@@ -35,7 +35,6 @@ title =~ /(\.ai |#ai |a\.i\.|aiイラスト|anthropic|artificial intelligence|br
 host *= "gpt"
 host =~ /((explore|www).microsoft.com)/ & (title *= "AI"|title *= "Copilot")
 title *= "google"i & title *= "lyria"i & !title =~ /(democrat|news|republician)/i
-(title *= " ai "i|title ^= "ai "i) & title *= "—" & !title =~ /(democrat|news|republician)/i
 
 # BiliBili
 /bilibili\.tv\/.*video\/(4800799524920320|4801177479420928|4800615335991808|4800250062707712|4800433035024896|4800664549071360|4801072725236736|4801197319527424|4801203788192768|4800996663368704|4801191625235456|4801170876013056|4800862110882304|4801090927860736|4801191138957824|4789525213873152)/
