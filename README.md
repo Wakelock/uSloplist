@@ -20,18 +20,27 @@ Anti-AI ruleset for [uBlacklist](https://github.com/iorate/ublacklist) and uBloc
   - Users are encouraged to share feedback on GitHub
 
 ## Setup
-### Links
-uSloplist default
+### uBlacklist
+> [!TIP]
+> This ruleset is meant to be used along with [Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) for optimal results.
 
-> The default and most frequently-updated list variant.
+1. Open addon options
+2. Scroll down to "Subscription", and then click "Add a subscription".
+3. Paste in...
 
+<details>
+<summary>uSloplist for uBlacklist (default) </summary>
+
+<br>
+  
 ```
 https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist.txt
 ```
-<details>
-<summary>uSloplist Nuclear (not recommended) </summary>
 
-> Can be used along with the default list. Makes broader assumptions.
+</details>
+
+<details>
+<summary>uSloplist Nuclear for uBlacklist (optional extension) </summary>
 
 <br>
   
@@ -41,16 +50,21 @@ https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist_
 
 </details>
   
-### uBlacklist
-> [!TIP]
-> This ruleset is meant to be used along with [Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) for optimal results.
-
-1. Open addon options
-2. Scroll down to "Subscription", and then click "Add a subscription".
-
 ### uBlock Origin
 1. Open addon options
 2. Click "Filter lists", and then select "Import..."
+3. Paste in...
+
+<details>
+<summary>uSloplist for uBlock Origin (default) </summary>
+
+<br>
+  
+```
+https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlock.txt
+```
+
+</details>
 
 ## Q&A
 
