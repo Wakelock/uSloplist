@@ -1,5 +1,5 @@
 # uSloplist
-Anti-AI ruleset for [uBlacklist](https://github.com/iorate/ublacklist) and uBlock Origin. Tired of uncanny "photos", stolen muddled "art", or unnatural AI-generated "music"? uSloplist aims to filter out all kinds of slop from search results, in order to bring back the good 'ol worldwide web.
+Anti-AI ruleset for [uBlacklist](https://github.com/iorate/ublacklist) and [uBlock Origin](https://github.com/gorhill/uBlock). Tired of uncanny "photos", stolen muddled-up "art", or unnatural AI-generated "music"? uSloplist aims to filter out all kinds of slop from search engines and YouTube, in order to bring back the good 'ol worldwide web.
 
 ## Features
 
