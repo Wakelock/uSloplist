@@ -3,5 +3,5 @@
 ! YouTube Playables (Oct 27, 2026)
 youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
 
-! YouTube Videos (Oct 27, 2026)
-youtube.com##ytd-video-renderer.ytd-item-section-renderer.style-scope:has([href$="@Ozzyfox-musicforkids"], [href$="@imskaigenerated"], [href$="@aiSheva"], [href$="@emmiescalm"], [href$="@profithubai"], [href$="@EverydayParkinsonsHelp"], [href$="@HighQuality-AI"], [href$="@ChillboyBeats"], [href$="@HeartEchoaimusic"], [href$="@manualdomundo"], [href$="@jocoding"], [href$="@coldfusion"], [href$="@daniverdari"], [href$="@isadoesai"])
+! YouTube videos (Oct 27, 2026)
+youtube.com##ytd-video-renderer.ytd-item-section-renderer.style-scope:has(a:matches-attr(href="/@(Ozzyfox-musicforkids|imskaigenerated|aiSheva|emmiescalm|profithubai|EverydayParkinsonsHelp|HighQuality-AI|ChillboyBeats|HeartEchoaimusic|manualdomundo|jocoding|coldfusion|daniverdari|isadoesai)/"))
