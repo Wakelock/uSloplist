@@ -4,4 +4,4 @@
 youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
 
 ! YouTube videos (Oct 27, 2026)
-youtube.com##ytd-video-renderer.ytd-item-section-renderer.style-scope:has(a:matches-attr(href="/@(Ozzyfox-musicforkids|imskaigenerated|aiSheva|emmiescalm|profithubai|EverydayParkinsonsHelp|HighQuality-AI|ChillboyBeats|HeartEchoaimusic|manualdomundo|jocoding|coldfusion|daniverdari|isadoesai)/"))
+youtube.com##ytd-video-renderer.ytd-item-section-renderer.style-scope:has(a:matches-attr(href="/(\/|\/@|\/c\/)(Ozzyfox-musicforkids|imskaigenerated|aiSheva|emmiescalm|profithubai|EverydayParkinsonsHelp|HighQuality-AI|ChillboyBeats|HeartEchoaimusic|manualdomundo|jocoding|coldfusion|daniverdari|isadoesai)/"))
