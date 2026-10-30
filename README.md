@@ -4,7 +4,7 @@ Anti-AI filter list and ruleset for [uBlacklist](https://github.com/iorate/ublac
 ## Features
 
 - Blacklist
-  - Blocks more than 1.7K websites and images
+  - Blocks more than 2K websites and images
   - Wildcards detect new AI websites automatically
   - Itch.io blacklist with 6.1K+ AI "users" and all of their slopware
   - Steam blacklist with 2K+ AI slop apps, listed by curators[^1][^2]
