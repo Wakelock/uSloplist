@@ -74,7 +74,7 @@ title *= "google"i & title *= "lyria"i & !title =~ /(democrat|news|republician)/
 *://*.grokipedia.com/*
 
 # Partial block
-!$category = "web" & host =~ /(brcc.church|worldeventsandthebible.com|www.actualno.com|blogs.nvidia.com|temu.com|substack.com|medium.com|tiktok.com|douyin.com|technews.bg|www.itnews.com.au|yahoo.com|dariknews.bg|news.bg|3e-news.net|antaranews.com|linkedin.com|theverge.com|etsy.com)/
+!$category = "web" & host =~ /(brcc.church|worldeventsandthebible.com|www.actualno.com|blogs.nvidia.com|temu.com|substack.com|medium.com|tiktok.com|douyin.com|technews.bg|www.itnews.com.au|yahoo.com|dariknews.bg|news.bg|3e-news.net|antaranews.com|linkedin.com|theverge.com|etsy.com|tumblr.com)/
 
 # Websites
 *://*.booboone.com/*
@@ -2015,7 +2015,6 @@ title *= "google"i & title *= "lyria"i & !title =~ /(democrat|news|republician)/
 *://*.mkprompt.com/*
 *://*.curify-ai.com/*
 *://*.mohitbhadana.in/*
-*://*.tumblr.com/*
 *://*.pixto.art/*
 *://*.creatoreconomy.so/*
 *://*.monimaster.com/*
