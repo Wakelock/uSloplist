@@ -1949,7 +1949,6 @@ title *= "google"i & title *= "lyria"i & !title =~ /(democrat|news|republician)/
 *://*.kkworld.in/*
 *://*.siasat.com/*
 *://*.makeuseof.com/*
-*://*.facebook.com/*
 *://*.promptapp.app/*
 *://*.fireshark.in/*
 *://*.thehindu.com/*
