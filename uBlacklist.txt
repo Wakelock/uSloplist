@@ -2033,3 +2033,5 @@ title *= "google"i & title *= "lyria"i & !title =~ /(democrat|news|republician)/
 *://*.bbntimes.com/*
 *://*.promptaa.com/*
 *://*.kidsthinkwide.com/*
+*://*.thebest-coach-international.com/*
+*://*.aiartgen.net/*
