@@ -30,11 +30,6 @@ homepage: https://github.com/Wakelock/uSloplist
 
 # Wildcards
 *://*.ai/*
-title =~ /(ai|ia|ki|ии).(animal|anime|art|assist.nt|bas(ed|ierten)|bild|character|chat|code|coding|compan|disney|driven|foto(bewerker|editor)|fruit|gener|girl|guide|görüntü|husband|image|tool|manga|meme|music|paint|photo|picture|platform|podcast|powered|porn|studio|telefonassistent|video|waifu|wife|youtube|виде(а|о)|изображени|сервисов)/i & !title =~ /(democrat|news|republician)/i
-title =~ /(\.ai |#ai |a\.i\.|aiイラスト|anthropic|artificial intelligence|brainrot|brain.rot|chatbot|civitai|comfyui|chat.bot|dall-e|deepmind|face.less|faceless|fruit.love.island|genai|generative.(ai|ki|pr(e|e.)trained)|(github|microsoft).copilot|google.gemini|gpt|huggingface|hugging.face|(image|video).gen|inteligencia.artificial|künstliche.intelligenz|midjourney|openai|plants.v(s|s\.).zombie(s|s:|s(™|tm):).replanted|pvz.replanted|sora.(2|ai|video)|ozz(y|y.)fox|stable.diff|vibe.cod.)/i & !title =~ /(democrat|news|republician)/i
-host *= "gpt"
-host =~ /((explore|www).microsoft.com)/ & (title *= "AI"|title *= "Copilot")
-title *= "google"i & title *= "lyria"i & !title =~ /(democrat|news|republician)/i
 
 # BiliBili
 /bilibili\.tv\/.*video\/(4800799524920320|4801177479420928|4800615335991808|4800250062707712|4800433035024896|4800664549071360|4801072725236736|4801197319527424|4801203788192768|4800996663368704|4801191625235456|4801170876013056|4800862110882304|4801090927860736|4801191138957824|4789525213873152)/
