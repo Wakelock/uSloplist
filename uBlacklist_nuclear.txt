@@ -35,3 +35,5 @@ host *= "gpt"
 host =~ /((explore|www).microsoft.com)/ & (title *= "AI"|title *= "Copilot")
 title *= "google"i & title *= "lyria"i & !title =~ /(democrat|news|republician)/i
 
+# Google
+/youtube\.com\/shorts/
