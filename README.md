@@ -28,16 +28,11 @@ Anti-AI filter list and ruleset for [uBlacklist](https://github.com/iorate/ublac
 2. Scroll down to "Subscription", and then click "Add a subscription".
 3. Paste in...
 
-<details>
-<summary>uSloplist for uBlacklist (default) </summary>
-
-<br>
+uSloplist for uBlacklist (default)
   
 ```
 https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist.txt
 ```
-
-</details>
 
 <details>
 <summary>uSloplist Nuclear for uBlacklist (optional extension) </summary>
