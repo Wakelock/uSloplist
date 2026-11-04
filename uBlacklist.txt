@@ -2188,3 +2188,15 @@ homepage: https://github.com/Wakelock/uSloplist
 *://*.gogpt.ru/*
 *://*.aidive.org/*
 *://*.chatgpt-robot.ru/*
+*://*.deepseek-ai.ru/*
+*://*.ai.meta.com/*
+*://*.aimusic.so/*
+*://*.homiwork.com/*
+*://*.eskritor.com/*
+*://*.freeaivideo.org/*
+*://*.aig.bg/*
+*://*.onlymusic.ai/*
+*://*.photoeditorai.io/*
+*://*.nanobananana.com/*
+*://*.gigapixelai.com/*
+*://*.chatmost.ru/*
