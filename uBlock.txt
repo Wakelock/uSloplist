@@ -1,10 +1,13 @@
 ! Title: uSloplist
 
+! GitHub Copilot sidebar (Nov 4, 2026)
+github.com##.CopilotSidePanelSidebar-module_LPwwmq_SidePanel
+
 ! Google Play (Nov 2, 2026)
 play.google.com##div.ULeU3b:has(a:matches-attr(href="/details\?id=(ai\.chat\.pro\.plus\.smart\.chatbot\.ai\.writing\.tool|chat\.meta\.ai\.gpt\.android|com\.ai\.online\.chat|com\.aichat\.voiceai\.chatbot|com\.aliduman\.chatai|com\.Beauchamp\.Messenger\.external|com\.google\.android\.apps\.bard|com\.peace\.AiChat2|com\.roleplai\.app|com\.xverse\.aistory|in\.softecks\.artificialintelligence|open\.chat\.gpt\.aichat\.bot\.free\.app|com\.waophoto\.smartphoto|com\.babenear\.phototools|com\.openai\.chatgpt|com\.facebook\.stella|com\.microsoft\.office\.officehubrow|ai\.perplexity\.app\.android|com\.anthropic\.claude|com\.scaleup\.chatai|ai\.character\.app)/"))
 
 ! YouTube Playables (Oct 27, 2026)
 youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
 
-! YouTube videos (Oct 30, 2026)
-youtube.com##ytd-video-renderer.ytd-item-section-renderer.style-scope:has(a:matches-attr(href="/(\/|\/@|\/c\/)(Ozzyfox-musicforkids|imskaigenerated|aiSheva|emmiescalm|profithubai|EverydayParkinsonsHelp|HighQuality-AI|ChillboyBeats|HeartEchoaimusic|manualdomundo|jocoding|coldfusion|daniverdari|isadoesai|AiMusicSunny|iv_expertize|KoreMusicAi)/"))
+! YouTube videos (Nov 7, 2026)
+youtube.com##ytd-video-renderer.ytd-item-section-renderer.style-scope:has(a:matches-attr(href="/(\/|\/@)(Ozzyfox-musicforkids|imskaigenerated|aiSheva|emmiescalm|profithubai|EverydayParkinsonsHelp|HighQuality-AI|ChillboyBeats|HeartEchoaimusic|manualdomundo|jocoding|coldfusion|daniverdari|isadoesai|AiMusicSunny|iv_expertize|KoreMusicAi|voice2\.0113|DramaRuin)/"))
