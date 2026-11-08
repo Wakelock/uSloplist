@@ -3,6 +3,7 @@ name: uSloplist
 homepage: https://github.com/Wakelock/uSloplist
 ---
 # Priority list
+@1*://*.based.cooking/* # Prohibits AI
 @1*://*.cara.app/* # Prohibits AI
 @1*://*.flathub.org/* # Moderates AI
 @1/lemmy\.world\/c\/digitalart/ # Prohibits AI
@@ -2238,3 +2239,4 @@ homepage: https://github.com/Wakelock/uSloplist
 *://*.toolmindset.com/*
 *://*.chatly.no/*
 *://*.datamationis.com/*
+*://*.plantbasedcooking.com/*
