@@ -1,4 +1,5 @@
 ! Title: uSloplist
+! Homepage: https://github.com/Wakelock/uSloplist
 
 ! GitHub Copilot sidebar (Nov 4, 2026)
 github.com##.CopilotSidePanelSidebar-module_LPwwmq_SidePanel
