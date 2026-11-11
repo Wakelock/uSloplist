@@ -2346,3 +2346,4 @@ homepage: https://github.com/Wakelock/uSloplist
 *://*.pixotech.com/*
 *://*.pixoinc.com/*
 *://*.pixoagency.com/*
+*://*.suerecipe.com/*
