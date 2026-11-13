@@ -41,22 +41,18 @@ https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist_
 ```
 
 </details>
-  
+
 ### uBlock Origin
 1. Open addon options
 2. Click "Filter lists", and then select "Import..."
 3. Paste in...
 
-<details>
-<summary>uSloplist for uBlock Origin (default) </summary>
+uSloplist for uBlock Origin (default)
 
-<br>
-  
 ```
 https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlock.txt
 ```
 
-</details>
 
 ## Q&A
 
