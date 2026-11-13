@@ -2424,3 +2424,13 @@ homepage: https://github.com/Wakelock/uSloplist
 *://*.sohu.com/*
 *://*.cryptocity.tw/*
 *://*.martechai.com/*
+*://*.miyukicraft.com/*
+*://*.helloparent.com/*
+*://*.learningwithkids.com/*
+*://*.homeglow.blog/*
+*://*.craft.beer/*
+*://*.makingartfun.com/*
+*://*.craft.do/*
+*://*.convercon.com/*
+*://*.lavandamichelle.com/*
+*://*.marketyourcraft.com/*
