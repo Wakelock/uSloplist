@@ -62,7 +62,7 @@ https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlock.txt
 > - - Credible or popular websites are whitelisted, but specific parts of them could be filtered if they contain too much slop and little to no educational value.
 > - Stream stolen music altered by AI beyond comprehension, especially without being classified as such.
 > - Publish baseless, [likely-AI](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing) articles by an unknown/fake writer.
-> - Make tutorials on AI and [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization) (which encourage [spam](https://en.wikipedia.org/wiki/Spamming) to be prioritized over straight-to-the-point articles).
+> - Make tutorials on AI and [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization) (which encourage [spam](https://en.wikipedia.org/wiki/Spamdexing) to be prioritized over straight-to-the-point articles).
 > - Overpraise and shill AI without ever criticizing it, and encourage over-relying on it.
 
 2. Does uSloplist block political content?
