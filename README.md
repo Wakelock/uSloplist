@@ -60,10 +60,10 @@ https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlock.txt
 > Sites which:
 > - Host a lot of AI slop, especially from companies who invest in AI (e.g., Adobe, Pinterest, etc).
 > - - Credible or popular websites are whitelisted, but specific parts of them could be filtered if they contain too much slop and little to no educational value.
-> - Stream stolen music altered by AI beyond comprehension.
+> - Stream stolen music altered by AI beyond comprehension, especially without being classified as such.
 > - Publish baseless, [likely-AI](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing) articles by an unknown/fake writer.
-> - Make tutorials on how to flood the internet with slop.
-> - Shill AI as if it were impossible to succeed without it.
+> - Make tutorials on AI and [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization) (which encourage [spam](https://en.wikipedia.org/wiki/Spamming) to be prioritized over straight-to-the-point articles).
+> - Overpraise and shill AI without ever criticizing it, and encourage over-relying on it.
 
 2. Does uSloplist block political content?
 > *Mostly not*. Political sites are less likely to be blocked, in order to prevent censorship and bias. The only such websites intended to be blocked must be obscure, baseless and almost if not completely AI-generated, whose images show up on search results.
