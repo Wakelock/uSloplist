@@ -64,6 +64,9 @@ homepage: https://github.com/Wakelock/uSloplist
 # LinkedIn
 /linkedin\.com\/company\/(winermedia|pixoinc|pixotech|pixo-ai)/
 
+# Microslop
+/microsoft\.com.*\/microsoft-365/
+
 # Pixiv
 /(kemono\.(cr|su|party)\/fanbox\/user|pixiv\.net\/users)\/(104572727|91875802|31233596|92571194|102716851|119355864|9029506|17956455|96042023|103223541|60497488|86942431|211326|87951468|91621034|24316440|110912955|15991790|4670988|212538|115405078|112546434|121692613|90956109|120578968|91810081|105805418|100729329|114253442|596499|74228142|110587809|103351039|37358757|125590506|106509289|143328|115465360|9208390|93019747|105069895|108459777|112736042|114688380|111027114|89908076|122039671|123766607|93472019|40681560|89399917|47150013|58446501|109584940|120184185|657612|121098019|103633592|3446433|116656633|111331966|123606669|87429561|114538676|42975836|1550883|114629279|24480936|121203295|40168781|26327270|126397467|121891214|102135979|76652614|92184376|121740909|39377390|107378476|126030949|115629132|121604986|126019580|115270568|126616093|91630648|114888449|81892145|93171444|86835373|126814534|106551642|34710637|92527277|35657189|125260695|13625907|69825499)/
 
@@ -80,7 +83,7 @@ homepage: https://github.com/Wakelock/uSloplist
 /(claudiaplusai|vibeproductmarketing|theuapconvergence|stressdefeated|ronald712|brianmccormacklcsw|twdevoe|seancuddihy|phitouc|onelesslane)\.substack\.com/
 
 # Twitter
-/(nitter\.net|(twitter|x).com)\/(_contextstudios|geminiapp|grok|nxcode_io|OpenAI|waifu_gen|pixoinc)/
+/(nitter\.net|(twitter|x).com)\/(_contextstudios|geminiapp|grok|nxcode_io|OpenAI|waifu_gen|pixoinc|generator_image|AartiAi|AI_art_gen|ai_nimals|EvaGlitchAI|glitch_ai|ZepTherion)/
 *://*.grok.com/*
 *://*.grokipedia.com/*
 
@@ -665,7 +668,6 @@ homepage: https://github.com/Wakelock/uSloplist
 *://*.grundschule-burg-sued.de/*
 *://*.sanyubabies.com/*
 *://*.a-z-animals.com/*
-*://*.britannica.com/*
 *://*.housepetscare.com/*
 *://*.wrapinfur.com/*
 *://*.aquamarinepower.com/*
@@ -2434,3 +2436,29 @@ homepage: https://github.com/Wakelock/uSloplist
 *://*.convercon.com/*
 *://*.lavandamichelle.com/*
 *://*.marketyourcraft.com/*
+*://*.alexbirkett.com/*
+*://*.ieee.org/*
+*://*.aiartkingdom.com/*
+*://*.blockchain.news/*
+*://*.edgenie.org/*
+*://*.phamoxmusic.com/*
+*://*.5minuteenglish.com/*
+*://*.wallpaperaccess.com/*
+*://*.lovepik.com/*
+*://*.assetscholar.com/*
+*://*.sustainableoverlook.org/*
+*://the-masked-music-star.fandom.com/*
+*://*.artificialcorner.com/*
+*://*.optimusawards.org/*
+*://*.wespeakfreely.org/*
+*://*.artshub.com.au/*
+*://*.artbypalaz.com/*
+*://*.barefootteflteacher.com/*
+*://*.desenio.eu/*
+*://*.cyborgprime.com/*
+*://*.aitellit.com/*
+*://*.theaigang.com/*
+*://*.singularityhub.com/*
+*://*.neilsahota.com/*
+*://*.pixel-gallery.co.uk/*
+*://*.jstor.org/*
