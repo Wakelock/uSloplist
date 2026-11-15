@@ -4,7 +4,7 @@
 ! GitHub Copilot sidebar (Nov 4, 2026)
 github.com##.CopilotSidePanelSidebar-module_LPwwmq_SidePanel
 
-# Google "AI Mode" button on home page
+# Google "AI Mode" button on home page (Nov 15, 2026)
 google.*##.plR5qb
 
 # Google "AI Mode" parameters (Nov 15, 2026)
