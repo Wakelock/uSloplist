@@ -1248,7 +1248,6 @@ homepage: https://github.com/Wakelock/uSloplist
 *://*.aigirlfriendreview.com/*
 *://*.techjuice.pk/*
 *://*.telanganatoday.com/*
-*://*.theaibugle.com/*
 *://*.roboaegisai.com/*
 *://*.friend2chat.com/*
 *://*.aiwhylive.com/*
